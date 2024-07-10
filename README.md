@@ -8,12 +8,12 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [PHP](#php)
 *   [Go](#go)
 *   [Vue](#vue)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
-*   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Java](#java)
 *   [C++](#c)
@@ -21,6 +21,28 @@
 *   [C#](#c-1)
 *   [CSS](#css)
 *   [MATLAB](#matlab)
+
+## TypeScript
+
+*   [SylarLong/iztro](https://github.com/SylarLong/iztro) - ⭐A lightweight open-source JavaScript library for obtaining The Purple Star Astrology (Zi Wei Dou Shu) astrolabe information.. 支持多语言轻量级获取紫微斗数排盘信息的javascript开源库。
+
+*   [tricsi/spacecraft](https://github.com/tricsi/spacecraft) - 2018 js13kgames.com entry
+
+*   [FreezingMoon/AncientBeast](https://github.com/FreezingMoon/AncientBeast) - Turn Based Strategy Game. Master your beasts! 🐺
+
+*   [GoogleChromeLabs/proxx](https://github.com/GoogleChromeLabs/proxx) - A game of proximity
+
+*   [liyupi/yulegeyu](https://github.com/liyupi/yulegeyu) - 羊了个羊纯前端实现版【鱼了个鱼】，自定义关卡+图案+无限道具，可在线玩：https://yulegeyu.cn
+
+*   [LHRUN/paint-board](https://github.com/LHRUN/paint-board) - 🎨  A powerful multi-end drawing board that brings together a lot of creative brushes to experience a whole new range of drawing effects!
+
+*   [feichao93/battle-city](https://github.com/feichao93/battle-city) - 🎮 Battle city remake built with react.
+
+*   [dsrkafuu/sakana-widget](https://github.com/dsrkafuu/sakana-widget) - Sakana widget for Web. | 网页小组件版本的石蒜模拟器。
+
+*   [vercel-community/php](https://github.com/vercel-community/php) - 🐘 PHP Runtime for ▲ Vercel Serverless Functions (support 7.4-8.3)
+
+*   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
 ## PHP
 
@@ -79,26 +101,6 @@
 *   [LittleNyima/honkai-starrail-toolkit](https://github.com/LittleNyima/honkai-starrail-toolkit) - 《崩坏：星穹铁道》工具箱，支持抽卡分析、帧率解锁等功能
 
 *   [labmlai/annotated\_deep\_learning\_paper\_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
-
-## TypeScript
-
-*   [tricsi/spacecraft](https://github.com/tricsi/spacecraft) - 2018 js13kgames.com entry
-
-*   [FreezingMoon/AncientBeast](https://github.com/FreezingMoon/AncientBeast) - Turn Based Strategy Game. Master your beasts! 🐺
-
-*   [GoogleChromeLabs/proxx](https://github.com/GoogleChromeLabs/proxx) - A game of proximity
-
-*   [liyupi/yulegeyu](https://github.com/liyupi/yulegeyu) - 羊了个羊纯前端实现版【鱼了个鱼】，自定义关卡+图案+无限道具，可在线玩：https://yulegeyu.cn
-
-*   [LHRUN/paint-board](https://github.com/LHRUN/paint-board) - 🎨  A powerful multi-end drawing board that brings together a lot of creative brushes to experience a whole new range of drawing effects!
-
-*   [feichao93/battle-city](https://github.com/feichao93/battle-city) - 🎮 Battle city remake built with react.
-
-*   [dsrkafuu/sakana-widget](https://github.com/dsrkafuu/sakana-widget) - Sakana widget for Web. | 网页小组件版本的石蒜模拟器。
-
-*   [vercel-community/php](https://github.com/vercel-community/php) - 🐘 PHP Runtime for ▲ Vercel Serverless Functions (support 7.4-8.3)
-
-*   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
 ## JavaScript
 
