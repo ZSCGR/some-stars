@@ -24,6 +24,8 @@
 
 ## HTML
 
+*   [QAbot-zh/query-key-app](https://github.com/QAbot-zh/query-key-app) -
+
 *   [GoldenMelon-Studio/HTML\_App\_Store](https://github.com/GoldenMelon-Studio/HTML_App_Store) - Build your App Store with static HTML.
 
 *   [CaenJones/EaglercraftX-1.19-Server](https://github.com/CaenJones/EaglercraftX-1.19-Server) - A 1.19 Eaglercraft / EaglercraftX server project!
@@ -82,7 +84,7 @@
 
 ## Vue
 
-*   [setube/vue-XiuXianGame](https://github.com/setube/vue-XiuXianGame) - Vue 修仙文字游戏
+*   [setube/vue-XiuXianGame](https://github.com/setube/vue-XiuXianGame) - 文字游戏: 我的文字修仙全靠刷
 
 *   [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - 一个还算强大的Web思维导图。A relatively powerful web mind map.
 
