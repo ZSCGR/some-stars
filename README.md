@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [Shell](#shell)
 *   [Go](#go)
 *   [JavaScript](#javascript)
@@ -16,12 +17,35 @@
 *   [Python](#python)
 *   [HTML](#html)
 *   [miscellaneous](#miscellaneous)
-*   [TypeScript](#typescript)
 *   [Java](#java)
 *   [C++](#c)
 *   [C#](#c-1)
 *   [CSS](#css)
 *   [MATLAB](#matlab)
+
+## TypeScript
+
+*   [OpenZeroSir/ViBoard](https://github.com/OpenZeroSir/ViBoard) - A cross-platform Echarts dashboard application,Powerpoint-like, designed based on Excel data, with the capability to update data remotely.supports line, spline, area, areaspline, column, bar, pie, scatter, angular gauges, arearange, areasplinerange, columnrange, bubble, box plot, error bars, funnel, waterfall. 支持柱状图、条形图、折线图、曲线图、折线填充图、曲线填充图、气泡图、扇形图。
+
+*   [SylarLong/iztro](https://github.com/SylarLong/iztro) - ⭐A lightweight open-source JavaScript library for obtaining The Purple Star Astrology (Zi Wei Dou Shu) astrolabe information.. 支持多语言轻量级获取紫微斗数排盘信息的javascript开源库。
+
+*   [tricsi/spacecraft](https://github.com/tricsi/spacecraft) - 2018 js13kgames.com entry
+
+*   [FreezingMoon/AncientBeast](https://github.com/FreezingMoon/AncientBeast) - Turn Based Strategy Game. Master your beasts! 🐺
+
+*   [GoogleChromeLabs/proxx](https://github.com/GoogleChromeLabs/proxx) - A game of proximity
+
+*   [liyupi/yulegeyu](https://github.com/liyupi/yulegeyu) - 羊了个羊纯前端实现版【鱼了个鱼】，自定义关卡+图案+无限道具，可在线玩：https://yulegeyu.cn
+
+*   [LHRUN/paint-board](https://github.com/LHRUN/paint-board) - 🎨  A powerful multi-end drawing board that brings together a lot of creative brushes to experience a whole new range of drawing effects!
+
+*   [feichao93/battle-city](https://github.com/feichao93/battle-city) - 🎮 Battle city remake built with react.
+
+*   [dsrkafuu/sakana-widget](https://github.com/dsrkafuu/sakana-widget) - Sakana widget for Web. | 网页小组件版本的石蒜模拟器。
+
+*   [vercel-community/php](https://github.com/vercel-community/php) - 🐘 PHP Runtime for ▲ Vercel Serverless Functions (support 7.4-8.3)
+
+*   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
 ## Shell
 
@@ -136,28 +160,6 @@
 *   [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 
 *   [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
-
-## TypeScript
-
-*   [SylarLong/iztro](https://github.com/SylarLong/iztro) - ⭐A lightweight open-source JavaScript library for obtaining The Purple Star Astrology (Zi Wei Dou Shu) astrolabe information.. 支持多语言轻量级获取紫微斗数排盘信息的javascript开源库。
-
-*   [tricsi/spacecraft](https://github.com/tricsi/spacecraft) - 2018 js13kgames.com entry
-
-*   [FreezingMoon/AncientBeast](https://github.com/FreezingMoon/AncientBeast) - Turn Based Strategy Game. Master your beasts! 🐺
-
-*   [GoogleChromeLabs/proxx](https://github.com/GoogleChromeLabs/proxx) - A game of proximity
-
-*   [liyupi/yulegeyu](https://github.com/liyupi/yulegeyu) - 羊了个羊纯前端实现版【鱼了个鱼】，自定义关卡+图案+无限道具，可在线玩：https://yulegeyu.cn
-
-*   [LHRUN/paint-board](https://github.com/LHRUN/paint-board) - 🎨  A powerful multi-end drawing board that brings together a lot of creative brushes to experience a whole new range of drawing effects!
-
-*   [feichao93/battle-city](https://github.com/feichao93/battle-city) - 🎮 Battle city remake built with react.
-
-*   [dsrkafuu/sakana-widget](https://github.com/dsrkafuu/sakana-widget) - Sakana widget for Web. | 网页小组件版本的石蒜模拟器。
-
-*   [vercel-community/php](https://github.com/vercel-community/php) - 🐘 PHP Runtime for ▲ Vercel Serverless Functions (support 7.4-8.3)
-
-*   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
 ## Java
 
