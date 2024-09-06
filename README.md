@@ -178,7 +178,7 @@
 
 ## CSS
 
-*   [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - A small clone of 1024 (https://web.archive.org/web/20140328011720/https://play.google.com/store/apps/details?id=com.veewo.a1024)
+*   [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - The source code for 2048
 
 *   [jxsite/jxsite](https://github.com/jxsite/jxsite) - 520解说创建的静态单页导航网站，镜像网站合集
 
