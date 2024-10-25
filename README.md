@@ -67,6 +67,8 @@
 
 *   [FounderIsShadowWalker/reactChess](https://github.com/FounderIsShadowWalker/reactChess) - 一个react写的跳棋
 
+*   [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - The source code for 2048
+
 *   [BKcore/HexGL](https://github.com/BKcore/HexGL) - Source code of HexGL, a futuristic HTML5 racing game
 
 *   [IvarK/IvarK.github.io](https://github.com/IvarK/IvarK.github.io) - Antimatter Dimensions
@@ -188,8 +190,6 @@
 *   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, support Xray core and v2fly core and others
 
 ## CSS
-
-*   [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - The source code for 2048
 
 *   [jxsite/jxsite](https://github.com/jxsite/jxsite) - 520解说创建的静态单页导航网站，镜像网站合集
 
