@@ -31,7 +31,7 @@
 
 *   [YOURLS/awesome](https://github.com/YOURLS/awesome) - 🎉 A curated list of awesome things related to YOURLS
 
-*   [DigitalPlatDev/US.KG](https://github.com/DigitalPlatDev/US.KG) - US.KG Free Domain For Everyone
+*   [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - US.KG Free Domain For Everyone
 
 *   [Meekdai/Gmemp](https://github.com/Meekdai/Gmemp) - Gmemp is a music player All in Github
 
