@@ -133,8 +133,6 @@
 
 *   [GoldenMelon-Studio/HTML\_App\_Store](https://github.com/GoldenMelon-Studio/HTML_App_Store) - Build your App Store with static HTML.
 
-*   [CaenJones/EaglercraftX-1.19-Server](https://github.com/CaenJones/EaglercraftX-1.19-Server) - A 1.19 Eaglercraft / EaglercraftX server project!
-
 *   [Harry-zklcdc/go-proxy-bingai](https://github.com/Harry-zklcdc/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，支持 API 调用，国内可用。
 
 *   [adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
