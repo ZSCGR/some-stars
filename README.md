@@ -166,7 +166,7 @@
 
 *   [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 
-*   [fghrsh/live2d\_api](https://github.com/fghrsh/live2d_api) - Live2D 看板娘插件 (https://www.fghrsh.net/post/123.html) 上使用的后端 API
+*   [fghrsh/live2d\_api](https://github.com/fghrsh/live2d_api) - Live2D 看板娘插件 后端 API
 
 *   [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The de facto standard self hosted URL shortener in PHP
 
