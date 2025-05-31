@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [Go](#go)
 *   [Roff](#roff)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
@@ -16,13 +17,28 @@
 *   [Java](#java)
 *   [HTML](#html)
 *   [miscellaneous](#miscellaneous)
-*   [Go](#go)
 *   [PHP](#php)
 *   [Vue](#vue)
 *   [C++](#c)
 *   [C#](#c-1)
 *   [CSS](#css)
 *   [MATLAB](#matlab)
+
+## Go
+
+*   [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
+
+*   [Jinnrry/PMail](https://github.com/Jinnrry/PMail) - Private EMail Server
+
+*   [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
+
+*   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+
+*   [shazow/ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
+
+*   [kingwrcy/moments](https://github.com/kingwrcy/moments) - 极简朋友圈
+
+*   [deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) - 代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。
 
 ## Roff
 
@@ -161,20 +177,6 @@
 *   [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 
 *   [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
-
-## Go
-
-*   [Jinnrry/PMail](https://github.com/Jinnrry/PMail) - Private EMail Server
-
-*   [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
-
-*   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
-
-*   [shazow/ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
-
-*   [kingwrcy/moments](https://github.com/kingwrcy/moments) - 极简朋友圈
-
-*   [deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) - 代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。
 
 ## PHP
 
