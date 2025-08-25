@@ -8,21 +8,43 @@
 
 ## Table of Contents
 
+*   [C](#c)
+*   [miscellaneous](#miscellaneous)
 *   [PHP](#php)
 *   [Python](#python)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Go](#go)
-*   [C++](#c)
+*   [C++](#c-1)
 *   [Vue](#vue)
 *   [HTML](#html)
 *   [Roff](#roff)
 *   [Shell](#shell)
 *   [Java](#java)
-*   [miscellaneous](#miscellaneous)
-*   [C#](#c-1)
+*   [C#](#c-2)
 *   [CSS](#css)
-*   [MATLAB](#matlab)
+
+## C
+
+*   [martin-ger/esp32\_nat\_router](https://github.com/martin-ger/esp32_nat_router) - A simple NAT Router for the ESP32
+
+## miscellaneous
+
+*   [egnor/wt32-eth01](https://github.com/egnor/wt32-eth01) - Bits and bobs related to Wireless-Tag's WT32-ETH01 board
+
+*   [YOURLS/awesome](https://github.com/YOURLS/awesome) - 🎉 A curated list of awesome things related to YOURLS
+
+*   [Meekdai/Gmemp](https://github.com/Meekdai/Gmemp) - Gmemp is a music player All in Github
+
+*   [joevess/IPTV](https://github.com/joevess/IPTV) - IPTV直播源抓取 自动整合hao趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新
+
+*   [Blankj/awesome-comment](https://github.com/Blankj/awesome-comment) - :boom: Funny comments
+
+*   [qwd/LocationList](https://github.com/qwd/LocationList) - 和风天气常用城市列表
+
+*   [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
+
+*   [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
 
 ## PHP
 
@@ -67,8 +89,6 @@
 *   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 
 *   [LittleNyima/honkai-starrail-toolkit](https://github.com/LittleNyima/honkai-starrail-toolkit) - 《崩坏：星穹铁道》工具箱，支持抽卡分析、帧率解锁等功能
-
-*   [labmlai/annotated\_deep\_learning\_paper\_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
 
 ## TypeScript
 
@@ -226,22 +246,6 @@
 
 *   [houbb/sensitive-word](https://github.com/houbb/sensitive-word) -  👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。内置支持单词标签分类分级。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)
 
-## miscellaneous
-
-*   [YOURLS/awesome](https://github.com/YOURLS/awesome) - 🎉 A curated list of awesome things related to YOURLS
-
-*   [Meekdai/Gmemp](https://github.com/Meekdai/Gmemp) - Gmemp is a music player All in Github
-
-*   [joevess/IPTV](https://github.com/joevess/IPTV) - IPTV直播源抓取 自动整合hao趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新
-
-*   [Blankj/awesome-comment](https://github.com/Blankj/awesome-comment) - :boom: Funny comments
-
-*   [qwd/LocationList](https://github.com/qwd/LocationList) - 和风天气常用城市列表
-
-*   [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
-
-*   [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
-
 ## C\#
 
 *   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
@@ -249,7 +253,3 @@
 ## CSS
 
 *   [jxsite/jxsite](https://github.com/jxsite/jxsite) - 520解说创建的静态单页导航网站，镜像网站合集
-
-## MATLAB
-
-*   [shuochsu/DeepVideoDeblurring](https://github.com/shuochsu/DeepVideoDeblurring) - S. Su, M. Delbracio, J. Wang, G. Sapiro, W. Heidrich, O. Wang. Deep Video Deblurring. CVPR 2017, Spotlight
