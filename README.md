@@ -124,7 +124,7 @@
 
 *   [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
 
-*   [shangxueink/koishi-shangxue-apps](https://github.com/shangxueink/koishi-shangxue-apps) - 小学在koishi的插件合集？
+*   [koishi-shangxue-plugins/koishi-shangxue-apps](https://github.com/koishi-shangxue-plugins/koishi-shangxue-apps) - 小学在koishi的插件合集？
 
 *   [Tenniskin/ViBoard](https://github.com/Tenniskin/ViBoard) - A cross-platform Echarts dashboard application,Powerpoint-like, designed based on Excel data, with the capability to update data remotely.supports line, spline, area, areaspline, column, bar, pie, scatter, angular gauges, arearange, areasplinerange, columnrange, bubble, box plot, error bars, funnel, waterfall. 支持柱状图、条形图、折线图、曲线图、折线填充图、曲线填充图、气泡图、扇形图。
 
