@@ -146,8 +146,6 @@
 
 *   [huashengdun/webssh](https://github.com/huashengdun/webssh) - :seedling: Web based ssh client
 
-*   [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
-
 ## miscellaneous
 
 *   [thryvos/Tasmota-WT32-ETH01](https://github.com/thryvos/Tasmota-WT32-ETH01) -  Guide to flash Tasmota firmware into WT32-ETH01
@@ -227,6 +225,8 @@
 ## HTML
 
 *   [kfcx/HFSpaceDeploy](https://github.com/kfcx/HFSpaceDeploy) - 将你的项目一键部署到huggingface spaces
+
+*   [zK0G0w/Whisper](https://github.com/zK0G0w/Whisper) - 一个简单的一言接口服务
 
 *   [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 
