@@ -10,12 +10,12 @@
 
 ## Table of Contents
 
+*   [C](#c)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Shell](#shell)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
-*   [C](#c)
 *   [PHP](#php)
 *   [Go](#go)
 *   [C++](#c-1)
@@ -25,6 +25,12 @@
 *   [Java](#java)
 *   [C#](#c-2)
 *   [CSS](#css)
+
+## C
+
+*   [tinyproxy/tinyproxy](https://github.com/tinyproxy/tinyproxy) - tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
+
+*   [martin-ger/esp32\_nat\_router](https://github.com/martin-ger/esp32_nat_router) - A simple NAT Router for the ESP32
 
 ## TypeScript
 
@@ -159,12 +165,6 @@
 *   [joevess/IPTV](https://github.com/joevess/IPTV) - IPTV直播源抓取 自动整合hao趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新
 
 *   [Blankj/awesome-comment](https://github.com/Blankj/awesome-comment) - :boom: Funny comments
-
-*   [qwd/LocationList](https://github.com/qwd/LocationList) - 和风天气常用城市列表
-
-## C
-
-*   [martin-ger/esp32\_nat\_router](https://github.com/martin-ger/esp32_nat_router) - A simple NAT Router for the ESP32
 
 ## PHP
 
