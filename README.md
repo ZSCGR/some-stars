@@ -10,8 +10,8 @@
 
 ## Table of Contents
 
-*   [C](#c)
 *   [TypeScript](#typescript)
+*   [C](#c)
 *   [JavaScript](#javascript)
 *   [Shell](#shell)
 *   [Python](#python)
@@ -26,13 +26,9 @@
 *   [C#](#c-2)
 *   [CSS](#css)
 
-## C
-
-*   [tinyproxy/tinyproxy](https://github.com/tinyproxy/tinyproxy) - tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
-
-*   [martin-ger/esp32\_nat\_router](https://github.com/martin-ger/esp32_nat_router) - A simple NAT Router for the ESP32
-
 ## TypeScript
+
+*   [TokenRollAI/curl-resume](https://github.com/TokenRollAI/curl-resume) - A cool terminal resume with streaming animations - curl -N me.pdjjq.org
 
 *   [ChinaSiro/open-prompt-manager-for-prompub](https://github.com/ChinaSiro/open-prompt-manager-for-prompub) -
 
@@ -75,6 +71,12 @@
 *   [vercel-community/php](https://github.com/vercel-community/php) - 🐘 PHP Runtime for ▲ Vercel Serverless Functions (support 7.4-8.3)
 
 *   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
+
+## C
+
+*   [tinyproxy/tinyproxy](https://github.com/tinyproxy/tinyproxy) - tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
+
+*   [martin-ger/esp32\_nat\_router](https://github.com/martin-ger/esp32_nat_router) - A simple NAT Router for the ESP32
 
 ## JavaScript
 
@@ -197,8 +199,6 @@
 *   [shazow/ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
 
 *   [kingwrcy/moments](https://github.com/kingwrcy/moments) - 极简朋友圈
-
-*   [deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) - 代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。
 
 ## C++
 
