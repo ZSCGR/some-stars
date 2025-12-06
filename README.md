@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+*   [Ruby](#ruby)
 *   [TypeScript](#typescript)
 *   [C](#c)
 *   [JavaScript](#javascript)
@@ -25,6 +26,10 @@
 *   [Java](#java)
 *   [C#](#c-2)
 *   [CSS](#css)
+
+## Ruby
+
+*   [basecamp/fizzy](https://github.com/basecamp/fizzy) - Kanban as it should be. Not as it has been.
 
 ## TypeScript
 
@@ -69,8 +74,6 @@
 *   [dsrkafuu/sakana-widget](https://github.com/dsrkafuu/sakana-widget) - Sakana widget for Web. | 网页小组件版本的石蒜模拟器。
 
 *   [vercel-community/php](https://github.com/vercel-community/php) - 🐘 PHP Runtime for ▲ Vercel Serverless Functions (support 7.4-8.3)
-
-*   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
 ## C
 
