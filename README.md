@@ -62,6 +62,8 @@
 
 *   [Tenniskin/ViBoard](https://github.com/Tenniskin/ViBoard) - A cross-platform Echarts dashboard application,Powerpoint-like, designed based on Excel data, with the capability to update data remotely.supports line, spline, area, areaspline, column, bar, pie, scatter, angular gauges, arearange, areasplinerange, columnrange, bubble, box plot, error bars, funnel, waterfall. 支持柱状图、条形图、折线图、曲线图、折线填充图、曲线填充图、气泡图、扇形图。
 
+*   [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+
 *   [SylarLong/iztro](https://github.com/SylarLong/iztro) - ⭐This is a lightweight kit for generating astrolabes for Zi Wei Dou Shu (The Purple Star Astrology), an ancient Chinese astrology. It allows you to obtain your horoscope and personality analysis. 支持多语言轻量级获取紫微斗数排盘信息的javascript开源库。
 
 *   [tricsi/spacecraft](https://github.com/tricsi/spacecraft) - 2018 js13kgames.com entry
@@ -199,8 +201,6 @@
 *   [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 
 *   [Jinnrry/PMail](https://github.com/Jinnrry/PMail) - Private EMail Server
-
-*   [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 
 *   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 
