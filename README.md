@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [EJS](#ejs)
 *   [TypeScript](#typescript)
 *   [PHP](#php)
@@ -24,9 +25,18 @@
 *   [Vue](#vue)
 *   [HTML](#html)
 *   [Roff](#roff)
-*   [Java](#java)
 *   [C#](#c-2)
 *   [CSS](#css)
+
+## Java
+
+*   [rikka0w0/wsmc](https://github.com/rikka0w0/wsmc) - Enable Websocket support for Minecraft Java.
+
+*   [isinvon/gold-foil-font-api](https://github.com/isinvon/gold-foil-font-api) - gold-foil-api - 烫金字体API, 为新年欢呼!
+
+*   [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
+
+*   [houbb/sensitive-word](https://github.com/houbb/sensitive-word) -  👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。内置支持单词标签分类分级。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)
 
 ## EJS
 
@@ -206,8 +216,6 @@
 
 *   [shazow/ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
 
-*   [kingwrcy/moments](https://github.com/kingwrcy/moments) - 极简朋友圈
-
 ## C++
 
 *   [MetaCubeX/subconverter](https://github.com/MetaCubeX/subconverter) - Utility to convert between various subscription format
@@ -245,14 +253,6 @@
 ## Roff
 
 *   [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
-
-## Java
-
-*   [isinvon/gold-foil-font-api](https://github.com/isinvon/gold-foil-font-api) - gold-foil-api - 烫金字体API, 为新年欢呼!
-
-*   [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
-
-*   [houbb/sensitive-word](https://github.com/houbb/sensitive-word) -  👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。内置支持单词标签分类分级。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)
 
 ## C\#
 
