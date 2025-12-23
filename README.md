@@ -12,7 +12,7 @@
 
 *   [TypeScript](#typescript)
 *   [Java](#java)
-*   [EJS](#ejs)
+*   [HTML](#html)
 *   [miscellaneous](#miscellaneous)
 *   [Ruby](#ruby)
 *   [C](#c)
@@ -23,7 +23,6 @@
 *   [Go](#go)
 *   [C++](#c-1)
 *   [Vue](#vue)
-*   [HTML](#html)
 *   [Roff](#roff)
 *   [C#](#c-2)
 
@@ -89,9 +88,19 @@
 
 *   [houbb/sensitive-word](https://github.com/houbb/sensitive-word) -  👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。内置支持单词标签分类分级。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)
 
-## EJS
+## HTML
 
 *   [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator
+
+*   [kfcx/HFSpaceDeploy](https://github.com/kfcx/HFSpaceDeploy) - 将你的项目一键部署到huggingface spaces
+
+*   [zK0G0w/Whisper](https://github.com/zK0G0w/Whisper) - 一个简单的一言接口服务
+
+*   [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
+
+*   [QAbot-zh/query-key-app](https://github.com/QAbot-zh/query-key-app) -
+
+*   [GoldenMelon-Studio/HTML\_App\_Store](https://github.com/GoldenMelon-Studio/HTML_App_Store) - Build your App Store with static HTML.
 
 ## miscellaneous
 
@@ -238,18 +247,6 @@
 *   [dreamhunter2333/cloudflare\_temp\_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
 
 *   [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more! || 🇨🇳 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等。
-
-## HTML
-
-*   [kfcx/HFSpaceDeploy](https://github.com/kfcx/HFSpaceDeploy) - 将你的项目一键部署到huggingface spaces
-
-*   [zK0G0w/Whisper](https://github.com/zK0G0w/Whisper) - 一个简单的一言接口服务
-
-*   [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
-
-*   [QAbot-zh/query-key-app](https://github.com/QAbot-zh/query-key-app) -
-
-*   [GoldenMelon-Studio/HTML\_App\_Store](https://github.com/GoldenMelon-Studio/HTML_App_Store) - Build your App Store with static HTML.
 
 ## Roff
 
