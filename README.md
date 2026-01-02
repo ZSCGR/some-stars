@@ -10,10 +10,10 @@
 
 ## Table of Contents
 
-*   [HTML](#html)
-*   [Java](#java)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
+*   [HTML](#html)
+*   [Java](#java)
 *   [C](#c)
 *   [miscellaneous](#miscellaneous)
 *   [Ruby](#ruby)
@@ -26,35 +26,9 @@
 *   [Roff](#roff)
 *   [C#](#c-2)
 
-## HTML
-
-*   [YoungYannick/KomariBeautify](https://github.com/YoungYannick/KomariBeautify) - 一个用于增强使用PurCarte主题的Komari探针的文件
-
-*   [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator
-
-*   [kfcx/HFSpaceDeploy](https://github.com/kfcx/HFSpaceDeploy) - 将你的项目一键部署到huggingface spaces
-
-*   [zK0G0w/Whisper](https://github.com/zK0G0w/Whisper) - 一个简单的一言接口服务
-
-*   [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
-
-*   [QAbot-zh/query-key-app](https://github.com/QAbot-zh/query-key-app) -
-
-*   [GoldenMelon-Studio/HTML\_App\_Store](https://github.com/GoldenMelon-Studio/HTML_App_Store) - Build your App Store with static HTML.
-
-## Java
-
-*   [Syngnat/missav-bot](https://github.com/Syngnat/missav-bot) - 一个基于 Telegram 的视频推送机器人,自动抓取 MissAV 最新视频并推送给订阅用户。
-
-*   [rikka0w0/wsmc](https://github.com/rikka0w0/wsmc) - Enable Websocket support for Minecraft Java.
-
-*   [isinvon/gold-foil-font-api](https://github.com/isinvon/gold-foil-font-api) - gold-foil-api - 烫金字体API, 为新年欢呼!
-
-*   [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
-
-*   [houbb/sensitive-word](https://github.com/houbb/sensitive-word) -  👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。内置支持单词标签分类分级。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)
-
 ## TypeScript
+
+*   [stan-smith/fossflow-lib](https://github.com/stan-smith/fossflow-lib) - Contains the fossflow npm package that is used in FossFlow, adapted from Isoflow
 
 *   [KuekHaoYang/KVideo](https://github.com/KuekHaoYang/KVideo) - 一个基于 Next.js 16 构建的现代化视频聚合播放平台。采用独特的 "Liquid Glass" 设计语言，提供流畅的视觉体验和强大的视频搜索功能。
 
@@ -102,9 +76,9 @@
 
 *   [liyupi/yulegeyu](https://github.com/liyupi/yulegeyu) - 羊了个羊纯前端实现版【鱼了个鱼】，自定义关卡+图案+无限道具，可在线玩：https://yulegeyu.cn
 
-*   [LHRUN/paint-board](https://github.com/LHRUN/paint-board) - 🎨  A powerful multi-end drawing board that brings together a lot of creative brushes to experience a whole new range of drawing effects!
-
 ## JavaScript
+
+*   [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
 
 *   [HaxIOX/northrealm-mqtt](https://github.com/HaxIOX/northrealm-mqtt) - Northrealm (NR) — MQTT client.
 
@@ -148,7 +122,33 @@
 
 *   [FounderIsShadowWalker/reactChess](https://github.com/FounderIsShadowWalker/reactChess) - 一个react写的跳棋
 
-*   [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - The source code for 2048
+## HTML
+
+*   [YoungYannick/KomariBeautify](https://github.com/YoungYannick/KomariBeautify) - 一个用于增强使用PurCarte主题的Komari探针的文件
+
+*   [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator
+
+*   [kfcx/HFSpaceDeploy](https://github.com/kfcx/HFSpaceDeploy) - 将你的项目一键部署到huggingface spaces
+
+*   [zK0G0w/Whisper](https://github.com/zK0G0w/Whisper) - 一个简单的一言接口服务
+
+*   [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
+
+*   [QAbot-zh/query-key-app](https://github.com/QAbot-zh/query-key-app) -
+
+*   [GoldenMelon-Studio/HTML\_App\_Store](https://github.com/GoldenMelon-Studio/HTML_App_Store) - Build your App Store with static HTML.
+
+## Java
+
+*   [Syngnat/missav-bot](https://github.com/Syngnat/missav-bot) - 一个基于 Telegram 的视频推送机器人,自动抓取 MissAV 最新视频并推送给订阅用户。
+
+*   [rikka0w0/wsmc](https://github.com/rikka0w0/wsmc) - Enable Websocket support for Minecraft Java.
+
+*   [isinvon/gold-foil-font-api](https://github.com/isinvon/gold-foil-font-api) - gold-foil-api - 烫金字体API, 为新年欢呼!
+
+*   [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
+
+*   [houbb/sensitive-word](https://github.com/houbb/sensitive-word) -  👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。内置支持单词标签分类分级。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)
 
 ## C
 
