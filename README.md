@@ -28,7 +28,7 @@
 
 ## PHP
 
-*   [wang4386/ZenShellHub](https://github.com/wang4386/ZenShellHub) - 极简、高颜值的单文件脚本管理中心。
+*   [wang4386/ZenShellHub](https://github.com/wang4386/ZenShellHub) - 极简、高颜值的单文件脚本管理中心。可自部署，拥有原生shell脚本可快捷键入所收藏脚本。
 
 *   [bs-community/blessing-skin-server](https://github.com/bs-community/blessing-skin-server) - Web application brings your custom skins back in offline Minecraft servers.
 
