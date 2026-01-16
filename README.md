@@ -10,8 +10,8 @@
 
 ## Table of Contents
 
-*   [Lua](#lua)
 *   [Python](#python)
+*   [Lua](#lua)
 *   [PHP](#php)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
@@ -26,11 +26,9 @@
 *   [Vue](#vue)
 *   [Roff](#roff)
 
-## Lua
-
-*   [Qsgs-Fans/FreeKill](https://github.com/Qsgs-Fans/FreeKill) - An open source board game engine, written in Qt and Lua.
-
 ## Python
+
+*   [guofei9987/blind\_watermark](https://github.com/guofei9987/blind_watermark) - Blind\&Invisible Watermark ，图片盲水印，提取水印无须原图！
 
 *   [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 
@@ -49,6 +47,10 @@
 *   [csgo-adc/TencentClassDownloader](https://github.com/csgo-adc/TencentClassDownloader) - 腾讯课堂视频下载。腾讯课堂马上就要关服了，还有没保存的课程快来下载吧
 
 *   [huashengdun/webssh](https://github.com/huashengdun/webssh) - :seedling: Web based ssh client
+
+## Lua
+
+*   [Qsgs-Fans/FreeKill](https://github.com/Qsgs-Fans/FreeKill) - An open source board game engine, written in Qt and Lua.
 
 ## PHP
 
@@ -185,8 +187,6 @@
 *   [isinvon/gold-foil-font-api](https://github.com/isinvon/gold-foil-font-api) - gold-foil-api - 烫金字体API, 为新年欢呼!
 
 *   [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
-
-*   [houbb/sensitive-word](https://github.com/houbb/sensitive-word) -  👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。内置支持单词标签分类分级。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)
 
 ## C
 
