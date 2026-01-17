@@ -166,7 +166,7 @@
 
 *   [YoungYannick/KomariBeautify](https://github.com/YoungYannick/KomariBeautify) - 一个用于增强使用PurCarte主题的Komari探针的文件
 
-*   [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — A customizable Cloudflare error page generator (unofficial)
+*   [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator of customized Cloudflare error pages (unofficial)
 
 *   [kfcx/HFSpaceDeploy](https://github.com/kfcx/HFSpaceDeploy) - 将你的项目一键部署到huggingface spaces
 
