@@ -194,7 +194,7 @@
 
 *   [tinyproxy/tinyproxy](https://github.com/tinyproxy/tinyproxy) - tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
 
-*   [martin-ger/esp32\_nat\_router](https://github.com/martin-ger/esp32_nat_router) - A simple NAT Router for the ESP32
+*   [martin-ger/esp32\_nat\_router](https://github.com/martin-ger/esp32_nat_router) - An AI-enabled NAT Router/Firewall for the ESP32
 
 ## miscellaneous
 
