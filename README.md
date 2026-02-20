@@ -10,6 +10,8 @@
 
 ## Table of Contents
 
+*   [C](#c)
+*   [Nix](#nix)
 *   [Python](#python)
 *   [Lua](#lua)
 *   [PHP](#php)
@@ -17,7 +19,6 @@
 *   [JavaScript](#javascript)
 *   [HTML](#html)
 *   [Java](#java)
-*   [C](#c)
 *   [miscellaneous](#miscellaneous)
 *   [Ruby](#ruby)
 *   [Shell](#shell)
@@ -25,6 +26,20 @@
 *   [C++](#c-1)
 *   [Vue](#vue)
 *   [Roff](#roff)
+
+## C
+
+*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+
+*   [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
+
+*   [tinyproxy/tinyproxy](https://github.com/tinyproxy/tinyproxy) - tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
+
+*   [martin-ger/esp32\_nat\_router](https://github.com/martin-ger/esp32_nat_router) - An AI-enabled NAT Router/Firewall for the ESP32
+
+## Nix
+
+*   [voidlhf/StarRailGrubThemes](https://github.com/voidlhf/StarRailGrubThemes) - A pack of GRUB2 themes for Honkai: Star Rail
 
 ## Python
 
@@ -65,8 +80,6 @@
 *   [f4team-cn/f4pan](https://github.com/f4team-cn/f4pan) - A website to get netdisk download link for users who cannot install the client
 
 *   [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
-
-*   [fghrsh/live2d\_api](https://github.com/fghrsh/live2d_api) - Live2D 看板娘插件 后端 API
 
 ## TypeScript
 
@@ -188,14 +201,6 @@
 
 *   [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 
-## C
-
-*   [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
-
-*   [tinyproxy/tinyproxy](https://github.com/tinyproxy/tinyproxy) - tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
-
-*   [martin-ger/esp32\_nat\_router](https://github.com/martin-ger/esp32_nat_router) - An AI-enabled NAT Router/Firewall for the ESP32
-
 ## miscellaneous
 
 *   [976853694/cloudflare-DNS](https://github.com/976853694/cloudflare-DNS) - 基于cloudflareAPI开发的DNS域名分发系统
@@ -209,8 +214,6 @@
 *   [Meekdai/Gmemp](https://github.com/Meekdai/Gmemp) - Gmemp is a music player All in Github
 
 *   [joevess/IPTV](https://github.com/joevess/IPTV) - IPTV直播源抓取 自动整合hao趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新
-
-*   [Blankj/awesome-comment](https://github.com/Blankj/awesome-comment) - :boom: Funny comments
 
 ## Ruby
 
