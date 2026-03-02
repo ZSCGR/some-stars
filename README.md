@@ -19,9 +19,9 @@
 *   [JavaScript](#javascript)
 *   [HTML](#html)
 *   [Java](#java)
-*   [miscellaneous](#miscellaneous)
 *   [Ruby](#ruby)
 *   [Shell](#shell)
+*   [miscellaneous](#miscellaneous)
 *   [Go](#go)
 *   [C++](#c-1)
 *   [Vue](#vue)
@@ -181,6 +181,8 @@
 
 *   [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator of customized Cloudflare error pages (unofficial)
 
+*   [976853694/cloudflare-DNS](https://github.com/976853694/cloudflare-DNS) - 基于cloudflareAPI开发的DNS域名分发系统
+
 *   [kfcx/HFSpaceDeploy](https://github.com/kfcx/HFSpaceDeploy) - 将你的项目一键部署到huggingface spaces
 
 *   [zK0G0w/Whisper](https://github.com/zK0G0w/Whisper) - 一个简单的一言接口服务
@@ -201,9 +203,17 @@
 
 *   [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 
-## miscellaneous
+## Ruby
 
-*   [976853694/cloudflare-DNS](https://github.com/976853694/cloudflare-DNS) - 基于cloudflareAPI开发的DNS域名分发系统
+*   [basecamp/fizzy](https://github.com/basecamp/fizzy) - Kanban as it should be. Not as it has been.
+
+## Shell
+
+*   [vevc/one-node](https://github.com/vevc/one-node) - 万物皆可搭节点 | Everything can be a proxy node
+
+*   [ttionya/vaultwarden-backup](https://github.com/ttionya/vaultwarden-backup) - Backup vaultwarden (formerly known as bitwarden\_rs) SQLite3/PostgreSQL/MySQL/MariaDB database by rclone. (Docker)
+
+## miscellaneous
 
 *   [thryvos/Tasmota-WT32-ETH01](https://github.com/thryvos/Tasmota-WT32-ETH01) -  Guide to flash Tasmota firmware into WT32-ETH01
 
@@ -214,16 +224,6 @@
 *   [Meekdai/Gmemp](https://github.com/Meekdai/Gmemp) - Gmemp is a music player All in Github
 
 *   [joevess/IPTV](https://github.com/joevess/IPTV) - IPTV直播源抓取 自动整合hao趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新
-
-## Ruby
-
-*   [basecamp/fizzy](https://github.com/basecamp/fizzy) - Kanban as it should be. Not as it has been.
-
-## Shell
-
-*   [vevc/one-node](https://github.com/vevc/one-node) - 万物皆可搭节点 | Everything can be a proxy node
-
-*   [ttionya/vaultwarden-backup](https://github.com/ttionya/vaultwarden-backup) - Backup vaultwarden (formerly known as bitwarden\_rs) SQLite3/PostgreSQL/MySQL/MariaDB database by rclone. (Docker)
 
 ## Go
 
