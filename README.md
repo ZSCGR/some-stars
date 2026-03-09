@@ -75,7 +75,7 @@
 
 *   [520yxl/Aliyundrive\_Refresh\_Token\_php](https://github.com/520yxl/Aliyundrive_Refresh_Token_php) - 根据阿里云盘开发者api获取Refresh Token
 
-*   [hochenggang/simple-php-s3-server](https://github.com/hochenggang/simple-php-s3-server) - simple single file  php s3 server.
+*   [hochenggang/simple-php-s3-server](https://github.com/hochenggang/simple-php-s3-server) - A simple s3 server powered by php.
 
 *   [f4team-cn/f4pan](https://github.com/f4team-cn/f4pan) - A website to get netdisk download link for users who cannot install the client
 
