@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
 *   [Rust](#rust)
 *   [C](#c)
 *   [Nix](#nix)
@@ -17,7 +18,6 @@
 *   [Lua](#lua)
 *   [PHP](#php)
 *   [TypeScript](#typescript)
-*   [JavaScript](#javascript)
 *   [Java](#java)
 *   [HTML](#html)
 *   [Ruby](#ruby)
@@ -27,6 +27,50 @@
 *   [C++](#c-1)
 *   [Vue](#vue)
 *   [Roff](#roff)
+
+## JavaScript
+
+*   [lain39/qqnotifier](https://github.com/lain39/qqnotifier) - 基于 Cloudflare Workers 构建的 兼容 Telegram 接口协议的 Serverless QQBot API 转换网关。
+
+*   [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
+
+*   [HaxIOX/northrealm-mqtt](https://github.com/HaxIOX/northrealm-mqtt) - Northrealm (NR) — MQTT client.
+
+*   [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
+
+*   [metowolf/Meting-API](https://github.com/metowolf/Meting-API) - 🐳 Meting API 的容器化
+
+*   [ShadowHunt-yi/musicPage](https://github.com/ShadowHunt-yi/musicPage) -
+
+*   [fishjar/kiss-worker](https://github.com/fishjar/kiss-worker) - A simple data sync service for KISSS-Translator.
+
+*   [xiyewuqiu/new-lmage](https://github.com/xiyewuqiu/new-lmage) -
+
+*   [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
+
+*   [reymond-group/smilesDrawer](https://github.com/reymond-group/smilesDrawer) - A small, highly performant JavaScript component for parsing and drawing SMILES strings. Released under the MIT license.
+
+*   [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
+
+*   [hitokoto-osc/hitokoto-api](https://github.com/hitokoto-osc/hitokoto-api) - 版本：1，现行的 API 运行框架。
+
+*   [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+
+*   [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到 ClawCloud\Render\Koyeb
+
+*   [chatgptuk/Real-US-Address-Generator](https://github.com/chatgptuk/Real-US-Address-Generator) -
+
+*   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+
+*   [setube/vue-xiuxiangame](https://github.com/setube/vue-xiuxiangame) - 文字游戏: 我的文字修仙全靠刷
+
+*   [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
+
+*   [leeenx/OneStroke](https://github.com/leeenx/OneStroke) - H5小游戏100例：一笔画
+
+*   [HypnosNova/Bejeweled](https://github.com/HypnosNova/Bejeweled) - POPCAP的宝石迷阵网页版代码
+
+*   [316k/tap-the-black-tiles](https://github.com/316k/tap-the-black-tiles) - A free clone of Don't Tap the White Tiles (aka Piano Tiles)
 
 ## Rust
 
@@ -138,50 +182,6 @@
 
 *   [liyupi/yulegeyu](https://github.com/liyupi/yulegeyu) - 羊了个羊纯前端实现版【鱼了个鱼】，自定义关卡+图案+无限道具，可在线玩：https://yulegeyu.cn
 
-## JavaScript
-
-*   [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
-
-*   [HaxIOX/northrealm-mqtt](https://github.com/HaxIOX/northrealm-mqtt) - Northrealm (NR) — MQTT client.
-
-*   [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
-
-*   [metowolf/Meting-API](https://github.com/metowolf/Meting-API) - 🐳 Meting API 的容器化
-
-*   [ShadowHunt-yi/musicPage](https://github.com/ShadowHunt-yi/musicPage) -
-
-*   [fishjar/kiss-worker](https://github.com/fishjar/kiss-worker) - A simple data sync service for KISSS-Translator.
-
-*   [xiyewuqiu/new-lmage](https://github.com/xiyewuqiu/new-lmage) -
-
-*   [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
-
-*   [reymond-group/smilesDrawer](https://github.com/reymond-group/smilesDrawer) - A small, highly performant JavaScript component for parsing and drawing SMILES strings. Released under the MIT license.
-
-*   [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
-
-*   [hitokoto-osc/hitokoto-api](https://github.com/hitokoto-osc/hitokoto-api) - 版本：1，现行的 API 运行框架。
-
-*   [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-
-*   [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到 ClawCloud\Render\Koyeb
-
-*   [chatgptuk/Real-US-Address-Generator](https://github.com/chatgptuk/Real-US-Address-Generator) -
-
-*   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-
-*   [setube/vue-xiuxiangame](https://github.com/setube/vue-xiuxiangame) - 文字游戏: 我的文字修仙全靠刷
-
-*   [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
-
-*   [leeenx/OneStroke](https://github.com/leeenx/OneStroke) - H5小游戏100例：一笔画
-
-*   [HypnosNova/Bejeweled](https://github.com/HypnosNova/Bejeweled) - POPCAP的宝石迷阵网页版代码
-
-*   [316k/tap-the-black-tiles](https://github.com/316k/tap-the-black-tiles) - A free clone of Don't Tap the White Tiles (aka Piano Tiles)
-
-*   [arcxingye/EatKano](https://github.com/arcxingye/EatKano) - H5 Games
-
 ## Java
 
 *   [Syngnat/missav-bot](https://github.com/Syngnat/missav-bot) - 一个基于 Telegram 的视频推送机器人,自动抓取 MissAV 最新视频并推送给订阅用户。
@@ -238,7 +238,7 @@
 
 *   [Jinnrry/PMail](https://github.com/Jinnrry/PMail) - Private EMail Server
 
-*   [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
+*   [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 
 *   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 
