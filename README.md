@@ -30,6 +30,8 @@
 
 ## Python
 
+*   [luori7hao/astrbot\_plugin\_xinsanguo\_voice](https://github.com/luori7hao/astrbot_plugin_xinsanguo_voice) - AstrBot 新三国语音梗插件 - 识别聊天中的新三国经典台词关键词，自动发送对应语音片段
+
 *   [nonebot/nonebot2](https://github.com/nonebot/nonebot2) - 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
 
 *   [guofei9987/blind\_watermark](https://github.com/guofei9987/blind_watermark) - Blind\&Invisible Watermark ，图片盲水印，提取水印无须原图！
@@ -179,8 +181,6 @@
 *   [FreezingMoon/AncientBeast](https://github.com/FreezingMoon/AncientBeast) - The Turn Based Strategy Game/eSport. Master your beasts! 🐺
 
 *   [GoogleChromeLabs/proxx](https://github.com/GoogleChromeLabs/proxx) - A game of proximity
-
-*   [liyupi/yulegeyu](https://github.com/liyupi/yulegeyu) - 羊了个羊纯前端实现版【鱼了个鱼】，自定义关卡+图案+无限道具，可在线玩：https://yulegeyu.cn
 
 ## Java
 
