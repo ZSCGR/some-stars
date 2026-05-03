@@ -3,82 +3,116 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ZSCGR GitHub Star 导航</title>
+    <title>ZSCGR 磨砂玻璃导航</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lykmapipo/themify-icons@0.1.2/css/themify-icons.css">
     <style>
-        /* 基础样式复刻 */
+        /* 基础重置 */
         * { padding: 0; margin: 0; box-sizing: border-box; }
         li { list-style: none; }
         a { text-decoration: none; color: inherit; }
-        body { font-size: 14px; color: #4d4d4d; font-family: "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif; background: #f3f6f8; }
 
-        /* 布局容器 */
+        body {
+            font-size: 14px;
+            color: #333;
+            font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            /* 背景图设置 */
+            background-image: url('https://pic.chgr.cc/random?dir=cover&type=img');
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            min-height: 100vh;
+        }
+
+        /* --- 磨砂核心类 --- */
+        .glass-effect {
+            background: rgba(255, 255, 255, 0.4); /* 半透明白色 */
+            backdrop-filter: blur(12px); /* 磨砂模糊核心 */
+            -webkit-backdrop-filter: blur(12px); /* 兼容 Safari */
+            border: 1px solid rgba(255, 255, 255, 0.3); /* 增加边缘亮光，更有质感 */
+            box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.1); /* 柔和阴影 */
+        }
+
+        /* 布局 */
         .container { display: flex; }
 
-        /* 左侧侧边栏 */
+        /* 侧边栏磨砂效果 */
         .left-bar {
             position: fixed;
-            background: #30333c;
-            color: #6b7386;
-            height: 100vh;
             width: 248px;
+            height: 100vh;
             display: flex;
             flex-direction: column;
-            transition: all .3s;
             z-index: 1000;
+            transition: all .3s;
+            /* 使用稍深一点的磨砂 */
+            background: rgba(48, 51, 60, 0.7); 
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            border-right: 1px solid rgba(255, 255, 255, 0.1);
         }
+
         .big-logo { height: 160px; display: flex; align-items: center; justify-content: center; padding: 20px; }
-        .big-logo img { width: 100px; height: 100px; border-radius: 50%; background: #fff; padding: 5px; }
+        .big-logo img { width: 90px; height: 90px; border-radius: 50%; border: 2px solid rgba(255,255,255,0.5); }
         
-        .left-bar .title { color: white; font-size: 18px; text-align: center; padding: 10px 0; font-weight: bold; }
-        .left-bar .nav { flex: 1; overflow-y: auto; }
-        .nav-item li a { 
-            display: block; padding: 12px 25px; color: #aeb2b7; font-size: 14px; transition: all .3s; 
-            white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
-        }
-        .nav-item li:hover a, .nav-item li.active a { color: #fff; background: #393e4a; }
+        .left-bar .title { color: #fff; font-size: 18px; text-align: center; padding: 10px 0; font-weight: bold; letter-spacing: 1px; }
+        .nav { flex: 1; overflow-y: auto; }
+        .nav-item li a { display: block; padding: 12px 25px; color: rgba(255,255,255,0.7); transition: 0.3s; }
+        .nav-item li:hover a { color: #fff; background: rgba(255,255,255,0.1); }
 
         /* 主体内容区 */
-        .main { margin-left: 248px; flex: 1; min-height: 100vh; position: relative; }
-        .header-tools { background: #fff; padding: 15px 30px; display: flex; align-items: center; box-shadow: 0 2px 4px rgba(0,0,0,0.05); position: sticky; top: 0; z-index: 900; }
-        #search { width: 300px; padding: 8px 15px; border: 1px solid #e4ecf3; border-radius: 20px; outline: none; background: #f9f9f9; }
+        .main { margin-left: 248px; flex: 1; padding-bottom: 50px; }
 
-        .content-wrapper { padding: 20px 30px; }
-        .about-box { background: #fff; padding: 15px 20px; border-radius: 8px; margin-bottom: 25px; color: #666; box-shadow: 0 2px 10px rgba(0,0,0,0.02); }
-        
-        /* 仓库卡片样式 */
-        .category-title { font-size: 18px; font-weight: bold; margin: 30px 0 15px 5px; display: flex; align-items: center; }
-        .category-title i { margin-right: 10px; color: #3a85ff; }
+        .header-tools { 
+            position: sticky; top: 0; z-index: 900; padding: 15px 30px; 
+            display: flex; align-items: center;
+            background: rgba(255, 255, 255, 0.2);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            border-bottom: 1px solid rgba(255,255,255,0.2);
+        }
+
+        #search { 
+            width: 300px; padding: 10px 20px; border-radius: 25px; 
+            border: 1px solid rgba(255,255,255,0.5); 
+            background: rgba(255,255,255,0.2);
+            outline: none; color: #000;
+        }
+        #search::placeholder { color: #666; }
+
+        .content-wrapper { padding: 30px; }
+
+        .about-box { 
+            padding: 15px 20px; border-radius: 12px; margin-bottom: 30px; 
+            color: #333; font-weight: 500; 
+        }
+
+        /* 仓库卡片磨砂 */
+        .category-title { font-size: 20px; font-weight: bold; margin: 30px 0 20px; color: #fff; text-shadow: 0 2px 4px rgba(0,0,0,0.3); }
 
         .repo-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px; }
         
         .repo-card { 
-            background: #fff; padding: 15px; border-radius: 10px; border: 1px solid #e4ecf3;
-            transition: all .3s; display: flex; align-items: flex-start; cursor: pointer;
+            padding: 20px; border-radius: 16px; 
+            display: flex; align-items: flex-start; 
+            transition: transform 0.3s ease;
         }
-        .repo-card:hover { transform: translateY(-5px); box-shadow: 0 10px 20px rgba(0,0,0,0.05); border-color: #3a85ff; }
+        .repo-card:hover { transform: translateY(-8px); background: rgba(255,255,255,0.5); }
         
-        .repo-avatar { width: 45px; height: 45px; border-radius: 50%; margin-right: 15px; flex-shrink: 0; border: 1px solid #eee; }
-        .repo-info { flex: 1; overflow: hidden; }
-        .repo-name { font-weight: bold; font-size: 15px; color: #3273dc; margin-bottom: 5px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-        .repo-desc { font-size: 12px; color: #888; line-height: 1.5; height: 36px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+        .repo-avatar { width: 50px; height: 50px; border-radius: 12px; margin-right: 15px; border: 1px solid rgba(255,255,255,0.3); }
+        .repo-name { font-weight: bold; font-size: 16px; color: #1a1a1a; margin-bottom: 6px; }
+        .repo-desc { font-size: 13px; color: #444; line-height: 1.4; height: 36px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
         
-        .repo-meta { margin-top: 10px; display: flex; gap: 10px; font-size: 11px; color: #999; }
-        .repo-meta span { display: flex; align-items: center; }
-        .repo-meta i { margin-right: 3px; }
+        .repo-meta { margin-top: 12px; display: flex; gap: 12px; font-size: 12px; color: #555; }
+        .repo-meta i { color: #3a85ff; }
 
         /* 回到顶部 */
-        #fixedBar { position: fixed; right: 20px; bottom: 30px; background: #fff; width: 40px; height: 40px; border-radius: 50%; display: none; align-items: center; justify-content: center; box-shadow: 0 2px 10px rgba(0,0,0,0.2); cursor: pointer; z-index: 1001; }
+        #fixedBar { position: fixed; right: 25px; bottom: 30px; width: 45px; height: 45px; border-radius: 50%; display: none; align-items: center; justify-content: center; cursor: pointer; z-index: 1001; }
 
-        /* 移动端菜单按钮 */
-        #mobile-menu-btn { display: none; font-size: 20px; cursor: pointer; margin-right: 15px; }
-
-        /* 响应式 */
+        /* 移动端适配 */
         @media screen and (max-width: 768px) {
             .left-bar { left: -248px; }
             .left-bar.active { left: 0; }
             .main { margin-left: 0; }
-            #mobile-menu-btn { display: block; }
             #search { width: 100%; }
         }
     </style>
@@ -88,32 +122,29 @@
 <div class="container">
     <aside class="left-bar" id="sidebar">
         <div class="big-logo">
-            <img src="https://github.com/identicons/zscgr.png" alt="logo">
+            <img src="https://github.com/ZSCGR.png" alt="logo">
         </div>
         <div class="title">个人导航</div>
         <nav class="nav">
-            <ul class="nav-item" id="sidebarLinks">
-                </ul>
+            <ul class="nav-item" id="sidebarLinks"></ul>
         </nav>
     </aside>
 
     <section class="main">
         <header class="header-tools">
-            <div id="mobile-menu-btn" onclick="toggleSidebar()"><i class="ti-menu"></i></div>
-            <input id="search" type="text" placeholder="搜索仓库、描述或标签...">
+            <div style="cursor:pointer; margin-right:20px; color:#fff;" onclick="toggleSidebar()"><i class="ti-menu"></i></div>
+            <input id="search" type="text" placeholder="搜索 GitHub 仓库...">
         </header>
 
         <div class="content-wrapper">
-            <div class="about-box">
-                <i class="ti-pencil-alt"></i> 本导航页仅供个人使用，同步自 GitHub Star 数据。
+            <div class="about-box glass-effect">
+                <i class="ti-light-bulb"></i> 欢迎来到我的个人星标仓库导航，所有数据实时同步。
             </div>
 
-            <div id="categories-container">
-                <div style="text-align: center; padding: 50px; color: #999;">正在加载 GitHub Stars 数据...</div>
-            </div>
+            <div id="categories-container"></div>
         </div>
 
-        <div id="fixedBar" onclick="window.scrollTo({top: 0, behavior: 'smooth'})">
+        <div id="fixedBar" class="glass-effect" onclick="window.scrollTo({top: 0, behavior: 'smooth'})">
             <i class="ti-arrow-up"></i>
         </div>
     </section>
@@ -125,94 +156,69 @@
     const searchInput = document.getElementById('search');
     let allData = {};
 
-    // 1. 获取数据
+    // 获取数据
     fetch('https://raw.githubusercontent.com/ZSCGR/some-stars/main/data.json')
         .then(res => res.json())
         .then(data => {
             allData = data;
             renderContent(data);
-        })
-        .catch(err => {
-            categoriesContainer.innerHTML = `<div style="color:red; text-align:center;">加载失败，请检查网络或数据源。</div>`;
         });
 
-    // 2. 渲染函数
     function renderContent(data) {
         let categoriesHtml = '';
         let sidebarHtml = '';
 
         for (const lang in data) {
             if (data[lang].length === 0) continue;
-
-            // 侧边栏
-            sidebarHtml += `<li><a href="#${lang}"><i class="ti-folder"></i> ${lang}</a></li>`;
-
-            // 内容区块
+            sidebarHtml += `<li><a href="#${lang}"><i class="ti-layout-grid2"></i> ${lang}</a></li>`;
             categoriesHtml += `
                 <div id="${lang}">
-                    <div class="category-title"><i class="ti-tag"></i> ${lang}</div>
+                    <div class="category-title">${lang} Repositories</div>
                     <div class="repo-grid">
-                        ${data[lang].map(repo => createCard(repo)).join('')}
+                        ${data[lang].map(repo => `
+                            <div class="repo-card glass-effect" onclick="window.open('${repo.html_url}', '_blank')">
+                                <img class="repo-avatar" src="${repo.owner.avatar_url}">
+                                <div style="flex:1; overflow:hidden;">
+                                    <div class="repo-name">${repo.name}</div>
+                                    <div class="repo-desc">${repo.description || 'No description available.'}</div>
+                                    <div class="repo-meta">
+                                        <span><i class="ti-star"></i> ${repo.stargazers_count}</span>
+                                        <span><i class="ti-eye"></i> ${repo.watchers_count}</span>
+                                    </div>
+                                </div>
+                            </div>
+                        `).join('')}
                     </div>
                 </div>
             `;
         }
-
         categoriesContainer.innerHTML = categoriesHtml;
         sidebarLinks.innerHTML = sidebarHtml;
     }
 
-    // 3. 创建卡片 HTML
-    function createCard(repo) {
-        return `
-            <div class="repo-card" onclick="window.open('${repo.html_url}', '_blank')">
-                <img class="repo-avatar" src="${repo.owner.avatar_url}" alt="avatar">
-                <div class="repo-info">
-                    <div class="repo-name">${repo.name}</div>
-                    <div class="repo-desc">${repo.description || '暂无描述'}</div>
-                    <div class="repo-meta">
-                        <span><i class="ti-star"></i> ${repo.stargazers_count}</span>
-                        <span><i class="ti-eye"></i> ${repo.watchers_count}</span>
-                    </div>
-                </div>
-            </div>
-        `;
-    }
-
-    // 4. 搜索逻辑
+    // 搜索逻辑
     searchInput.addEventListener('input', (e) => {
         const query = e.target.value.toLowerCase();
-        if (!query) {
-            renderContent(allData);
-            return;
-        }
-
-        let searchResults = [];
+        let matched = [];
         for (const lang in allData) {
-            const filtered = allData[lang].filter(repo => 
-                repo.name.toLowerCase().includes(query) || 
-                (repo.description && repo.description.toLowerCase().includes(query))
-            );
-            searchResults = searchResults.concat(filtered);
+            matched = matched.concat(allData[lang].filter(r => 
+                r.name.toLowerCase().includes(query) || (r.description && r.description.toLowerCase().includes(query))
+            ));
         }
-
-        categoriesContainer.innerHTML = `
-            <div class="category-title"><i class="ti-search"></i> 搜索结果</div>
-            <div class="repo-grid">
-                ${searchResults.length ? searchResults.map(repo => createCard(repo)).join('') : '<p style="padding:20px; color:#999;">未找到相关仓库</p>'}
-            </div>
-        `;
+        if(!query) return renderContent(allData);
+        categoriesContainer.innerHTML = `<div class="category-title">搜索结果</div><div class="repo-grid">${matched.map(r => `
+            <div class="repo-card glass-effect" onclick="window.open('${r.html_url}', '_blank')">
+                <img class="repo-avatar" src="${r.owner.avatar_url}">
+                <div style="flex:1; overflow:hidden;">
+                    <div class="repo-name">${r.name}</div>
+                    <div class="repo-desc">${r.description || ''}</div>
+                </div>
+            </div>`).join('')}</div>`;
     });
 
-    // 5. 辅助功能：移动端侧边栏切换
-    function toggleSidebar() {
-        document.getElementById('sidebar').classList.toggle('active');
-    }
-
-    // 6. 辅助功能：回到顶部显示
+    function toggleSidebar() { document.getElementById('sidebar').classList.toggle('active'); }
     window.addEventListener('scroll', () => {
-        const btn = document.getElementById('fixedBar');
-        btn.style.display = window.scrollY > 300 ? 'flex' : 'none';
+        document.getElementById('fixedBar').style.display = window.scrollY > 300 ? 'flex' : 'none';
     });
 </script>
 
