@@ -4,7 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ZSCGRの星标导航</title>
+    
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>✨🐈</text></svg>">
+
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lykmapipo/themify-icons@0.1.2/css/themify-icons.css">
+    
     <style>
         /* 基础重置 */
         * { padding: 0; margin: 0; box-sizing: border-box; }
@@ -21,6 +25,35 @@
             background-position: center;
             background-attachment: fixed;
             min-height: 100vh;
+            /* Firefox 的滚动条隐藏设置 */
+            scrollbar-width: thin;
+            scrollbar-color: rgba(255,255,255,0.2) transparent;
+        }
+
+        /* --- 滚动条美化核心 (WebKit 系列) --- */
+        /* 隐藏侧边栏和主页面的默认宽大滚动条，改为细线条 */
+        
+        /* 1. 设置滚动条的宽度 */
+        ::-webkit-scrollbar {
+            width: 6px;  /* 纵向滚动条宽度 */
+            height: 6px; /* 横向滚动条高度 */
+        }
+
+        /* 2. 设置滚动条的轨道背景 (通常设为透明) */
+        ::-webkit-scrollbar-track {
+            background: transparent;
+        }
+
+        /* 3. 设置滚动条的滑块 (也叫拇指) */
+        ::-webkit-scrollbar-thumb {
+            background: rgba(255, 255, 255, 0.2); /* 半透明白色，非常低调 */
+            border-radius: 3px; /* 滑块圆角 */
+            transition: background 0.3s ease;
+        }
+
+        /* 4. 鼠标悬停在滑块上时，颜色稍微加深一点 */
+        ::-webkit-scrollbar-thumb:hover {
+            background: rgba(255, 255, 255, 0.4);
         }
 
         /* --- 磨砂核心类 --- */
@@ -49,6 +82,8 @@
             backdrop-filter: blur(20px);
             -webkit-backdrop-filter: blur(20px);
             border-right: 1px solid rgba(255, 255, 255, 0.1);
+            /* 确保侧边栏内部内容溢出时也能使用细滚动条 */
+            overflow-y: auto;
         }
 
         .big-logo { height: 160px; display: flex; align-items: center; justify-content: center; padding: 20px; }
