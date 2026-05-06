@@ -2,7 +2,7 @@
 
 # Some Stars
 
-⭐ <a href="https://jerryz.com.cn/"  target="_blank">Jerry Zhou</a>的star列表，每周自动更新 ⭐
+⭐ <a href="https://jerryz.com.cn/"  target="_blank">ZCGR</a>的star列表，自动更新 ⭐
 
 <a href="https://rsshub.app/github/starred_repos/YangguangZhou"  target="_blank" title="基于rsshub的订阅">RSS订阅</a> <a href="https://stars.jerryz.com.cn"  target="_blank" title="Stars导航">Stars导航</a>
 
@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+* [Go](#go)
 * [miscellaneous](#miscellaneous)
 * [Python](#python)
 * [JavaScript](#javascript)
@@ -23,10 +24,23 @@
 * [HTML](#html)
 * [Ruby](#ruby)
 * [Shell](#shell)
-* [Go](#go)
 * [C++](#c-1)
 * [Vue](#vue)
 * [Roff](#roff)
+
+## Go
+
+* [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
+
+* [soxft/busuanzi](https://github.com/soxft/busuanzi) - A simple website statistics analyzer
+
+* [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
+
+* [Jinnrry/PMail](https://github.com/Jinnrry/PMail) - Private EMail Server
+
+* [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+
+* [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 
 ## miscellaneous
 
@@ -192,8 +206,6 @@
 
 * [FreezingMoon/AncientBeast](https://github.com/FreezingMoon/AncientBeast) - The Turn Based Strategy Game/eSport. Master your beasts! 🐺
 
-* [GoogleChromeLabs/proxx](https://github.com/GoogleChromeLabs/proxx) - A game of proximity
-
 ## Java
 
 * [Syngnat/missav-bot](https://github.com/Syngnat/missav-bot) - 一个基于 Telegram 的视频推送机器人,自动抓取 MissAV 最新视频并推送给订阅用户。
@@ -229,18 +241,6 @@
 * [vevc/one-node](https://github.com/vevc/one-node) - 万物皆可搭节点 | Everything can be a proxy node
 
 * [ttionya/vaultwarden-backup](https://github.com/ttionya/vaultwarden-backup) - Backup vaultwarden (formerly known as bitwarden\_rs) SQLite3/PostgreSQL/MySQL/MariaDB database by rclone. (Docker)
-
-## Go
-
-* [soxft/busuanzi](https://github.com/soxft/busuanzi) - A simple website statistics analyzer
-
-* [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
-
-* [Jinnrry/PMail](https://github.com/Jinnrry/PMail) - Private EMail Server
-
-* [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
-
-* [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 
 ## C++
 
