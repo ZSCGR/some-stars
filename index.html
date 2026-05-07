@@ -19,7 +19,7 @@
             font-size: 14px;
             color: #333;
             font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-            /* 背景图设置 */
+            /* 默认/电脑端 背景图设置 */
             background-image: url('https://pic.chgr.cc/random?dir=cover&type=img');
             background-size: cover;
             background-position: center;
@@ -145,6 +145,10 @@
 
         /* 移动端适配 */
         @media screen and (max-width: 768px) {
+            body {
+                /* 手机端专用背景图 (竖屏) */
+                background-image: url('https://pic.chgr.cc/random?dir=shuping&type=img');
+            }
             .left-bar { left: -248px; }
             .left-bar.active { left: 0; }
             .main { margin-left: 0; }
