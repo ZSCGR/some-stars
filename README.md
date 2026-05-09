@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+* [Kotlin](#kotlin)
 * [Vue](#vue)
 * [Go](#go)
 * [miscellaneous](#miscellaneous)
@@ -27,6 +28,10 @@
 * [Shell](#shell)
 * [C++](#c-1)
 * [Roff](#roff)
+
+## Kotlin
+
+* [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
 
 ## Vue
 
@@ -255,8 +260,6 @@
 * [MetaCubeX/subconverter](https://github.com/MetaCubeX/subconverter) - Utility to convert between various subscription format
 
 * [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
-
-* [teeworlds/teeworlds](https://github.com/teeworlds/teeworlds) - A retro multiplayer shooter
 
 ## Roff
 
