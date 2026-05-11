@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+* [Java](#java)
 * [Kotlin](#kotlin)
 * [Vue](#vue)
 * [Go](#go)
@@ -22,12 +23,23 @@
 * [Lua](#lua)
 * [PHP](#php)
 * [TypeScript](#typescript)
-* [Java](#java)
 * [HTML](#html)
 * [Ruby](#ruby)
 * [Shell](#shell)
 * [C++](#c-1)
 * [Roff](#roff)
+
+## Java
+
+* [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
+
+* [Syngnat/missav-bot](https://github.com/Syngnat/missav-bot) - 一个基于 Telegram 的视频推送机器人,自动抓取 MissAV 最新视频并推送给订阅用户。
+
+* [rikka0w0/wsmc](https://github.com/rikka0w0/wsmc) - Enable Websocket support for Minecraft Java.
+
+* [isinvon/gold-foil-font-api](https://github.com/isinvon/gold-foil-font-api) - gold-foil-api - 烫金字体API, 为新年欢呼!
+
+* [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 
 ## Kotlin
 
@@ -216,18 +228,6 @@
 * [dreamhunter2333/cloudflare\_temp\_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
 
 * [tricsi/spacecraft](https://github.com/tricsi/spacecraft) - 2018 js13kgames.com entry
-
-* [FreezingMoon/AncientBeast](https://github.com/FreezingMoon/AncientBeast) - The Turn Based Strategy Game/eSport. Master your beasts! 🐺
-
-## Java
-
-* [Syngnat/missav-bot](https://github.com/Syngnat/missav-bot) - 一个基于 Telegram 的视频推送机器人,自动抓取 MissAV 最新视频并推送给订阅用户。
-
-* [rikka0w0/wsmc](https://github.com/rikka0w0/wsmc) - Enable Websocket support for Minecraft Java.
-
-* [isinvon/gold-foil-font-api](https://github.com/isinvon/gold-foil-font-api) - gold-foil-api - 烫金字体API, 为新年欢呼!
-
-* [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 
 ## HTML
 
