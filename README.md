@@ -45,6 +45,8 @@
 
 * [isinvon/gold-foil-font-api](https://github.com/isinvon/gold-foil-font-api) - gold-foil-api - 烫金字体API, 为新年欢呼!
 
+* [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
+
 ## Vue
 
 * [imsyy/vitepress-theme-curve](https://github.com/imsyy/vitepress-theme-curve) - 🎉 A Simple VitePress Theme | 一个极简的 VitePress 主题
@@ -185,8 +187,6 @@
 
 ## TypeScript
 
-* [stan-smith/fossflow-lib](https://github.com/stan-smith/fossflow-lib) - Contains the fossflow npm package that is used in FossFlow, adapted from Isoflow
-
 * [KuekHaoYang/KVideo](https://github.com/KuekHaoYang/KVideo) - 一个基于 Next.js 16 构建的现代化视频聚合播放平台。采用独特的 "Liquid Glass" 设计语言，提供流畅的视觉体验和强大的视频搜索功能。
 
 * [Anarkh-Lee/visual-docker-compose](https://github.com/Anarkh-Lee/visual-docker-compose) - 一款现代化的 Docker Compose 可视化生成器，通过拖拽操作快速构建容器编排配置文件。
@@ -202,8 +202,6 @@
 * [TokenRollAI/curl-resume](https://github.com/TokenRollAI/curl-resume) - A cool terminal resume with streaming animations - curl -N me.pdjjq.org
 
 * [ChinaSiro/open-prompt-manager-for-prompub](https://github.com/ChinaSiro/open-prompt-manager-for-prompub) -
-
-* [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 
 * [VaalaCat/frp-panel](https://github.com/VaalaCat/frp-panel) - a multi node frp webui and for https://github.com/fatedier/frp server and client management, which makes this project a Cloudflare Tunnel/Tailscale Funnel/Ngork platform and agent open source alternative
 
@@ -228,6 +226,8 @@
 * [dreamhunter2333/cloudflare\_temp\_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
 
 * [tricsi/spacecraft](https://github.com/tricsi/spacecraft) - 2018 js13kgames.com entry
+
+* [FreezingMoon/AncientBeast](https://github.com/FreezingMoon/AncientBeast) - The Turn Based Strategy Game/eSport. Master your beasts! 🐺
 
 ## HTML
 
