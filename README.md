@@ -10,8 +10,8 @@
 
 ## Table of Contents
 
-* [TypeScript](#typescript)
 * [Kotlin](#kotlin)
+* [TypeScript](#typescript)
 * [Java](#java)
 * [Vue](#vue)
 * [Go](#go)
@@ -28,6 +28,14 @@
 * [Shell](#shell)
 * [C++](#c-1)
 * [Roff](#roff)
+
+## Kotlin
+
+* [wxxsfxyzm/InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) - More Expressive InstallerX !
+
+* [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
+
+* [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
 
 ## TypeScript
 
@@ -73,12 +81,6 @@
 
 * [tricsi/spacecraft](https://github.com/tricsi/spacecraft) - 2018 js13kgames.com entry
 
-## Kotlin
-
-* [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
-
-* [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
-
 ## Java
 
 * [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
@@ -88,8 +90,6 @@
 * [rikka0w0/wsmc](https://github.com/rikka0w0/wsmc) - Enable Websocket support for Minecraft Java.
 
 * [isinvon/gold-foil-font-api](https://github.com/isinvon/gold-foil-font-api) - gold-foil-api - 烫金字体API, 为新年欢呼!
-
-* [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 
 ## Vue
 
