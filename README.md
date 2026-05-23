@@ -243,7 +243,7 @@
 
 * [QAbot-zh/query-key-app](https://github.com/QAbot-zh/query-key-app) -
 
-* [GoldenMelon-Studio/HTML\_App\_Store](https://github.com/GoldenMelon-Studio/HTML_App_Store) - Build your App Store with static HTML.
+* [iNekoACG/HTML\_App\_Store](https://github.com/iNekoACG/HTML_App_Store) - Build your App Store with static HTML.
 
 ## Ruby
 
