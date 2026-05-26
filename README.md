@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+* [Rust](#rust)
 * [Kotlin](#kotlin)
 * [TypeScript](#typescript)
 * [Java](#java)
@@ -18,7 +19,6 @@
 * [miscellaneous](#miscellaneous)
 * [Python](#python)
 * [JavaScript](#javascript)
-* [Rust](#rust)
 * [C](#c)
 * [Nix](#nix)
 * [Lua](#lua)
@@ -28,6 +28,12 @@
 * [Shell](#shell)
 * [C++](#c-1)
 * [Roff](#roff)
+
+## Rust
+
+* [t8y2/dbx](https://github.com/t8y2/dbx) - 15MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.15MB，轻量级跨平台数据库客户端。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。
+
+* [nearai/ironclaw](https://github.com/nearai/ironclaw) - IronClaw is an Agent OS focused on privacy, security and extensibility
 
 ## Kotlin
 
@@ -190,12 +196,6 @@
 * [setube/vue-xiuxiangame](https://github.com/setube/vue-xiuxiangame) - 文字游戏: 我的文字修仙全靠刷
 
 * [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
-
-* [leeenx/OneStroke](https://github.com/leeenx/OneStroke) - H5小游戏100例：一笔画
-
-## Rust
-
-* [nearai/ironclaw](https://github.com/nearai/ironclaw) - IronClaw is an Agent OS focused on privacy, security and extensibility
 
 ## C
 
