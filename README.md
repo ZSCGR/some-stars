@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+* [PHP](#php)
 * [C](#c)
 * [Vue](#vue)
 * [TypeScript](#typescript)
@@ -22,13 +23,28 @@
 * [Rust](#rust)
 * [Nix](#nix)
 * [Lua](#lua)
-* [PHP](#php)
 * [HTML](#html)
 * [Ruby](#ruby)
 * [Shell](#shell)
 * [C++](#c-1)
 * [Roff](#roff)
 * [Dart](#dart)
+
+## PHP
+
+* [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone portable PHP binaries on Linux, macOS, Windows, with PHP project together, with popular extensions included.
+
+* [wang4386/ZenShellHub](https://github.com/wang4386/ZenShellHub) - 极简、高颜值的单文件脚本管理中心。可自部署，拥有原生shell脚本可快捷键入所收藏脚本。
+
+* [bs-community/blessing-skin-server](https://github.com/bs-community/blessing-skin-server) - Web application brings your custom skins back in offline Minecraft servers.
+
+* [520yxl/Aliyundrive\_Refresh\_Token\_php](https://github.com/520yxl/Aliyundrive_Refresh_Token_php) - 根据阿里云盘开发者api获取Refresh Token
+
+* [hochenggang/simple-php-s3-server](https://github.com/hochenggang/simple-php-s3-server) - A simple s3 server powered by php.
+
+* [f4team-cn/f4pan](https://github.com/f4team-cn/f4pan) - A website to get netdisk download link for users who cannot install the client
+
+* [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 
 ## C
 
@@ -138,8 +154,6 @@
 
 * [Meekdai/Gmemp](https://github.com/Meekdai/Gmemp) - Gmemp is a music player All in Github
 
-* [joevess/IPTV](https://github.com/joevess/IPTV) - IPTV直播源抓取 自动整合hao趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新
-
 ## Python
 
 * [luori7hao/astrbot\_plugin\_xinsanguo\_voice](https://github.com/luori7hao/astrbot_plugin_xinsanguo_voice) - AstrBot 新三国语音梗插件 - 识别聊天中的新三国经典台词关键词，自动发送对应语音片段
@@ -213,20 +227,6 @@
 ## Lua
 
 * [Qsgs-Fans/FreeKill](https://github.com/Qsgs-Fans/FreeKill) - An open source board game engine, written in Qt and Lua.
-
-## PHP
-
-* [wang4386/ZenShellHub](https://github.com/wang4386/ZenShellHub) - 极简、高颜值的单文件脚本管理中心。可自部署，拥有原生shell脚本可快捷键入所收藏脚本。
-
-* [bs-community/blessing-skin-server](https://github.com/bs-community/blessing-skin-server) - Web application brings your custom skins back in offline Minecraft servers.
-
-* [520yxl/Aliyundrive\_Refresh\_Token\_php](https://github.com/520yxl/Aliyundrive_Refresh_Token_php) - 根据阿里云盘开发者api获取Refresh Token
-
-* [hochenggang/simple-php-s3-server](https://github.com/hochenggang/simple-php-s3-server) - A simple s3 server powered by php.
-
-* [f4team-cn/f4pan](https://github.com/f4team-cn/f4pan) - A website to get netdisk download link for users who cannot install the client
-
-* [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 
 ## HTML
 
