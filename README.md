@@ -10,17 +10,17 @@
 
 ## Table of Contents
 
+* [JavaScript](#javascript)
 * [Go](#go)
 * [Python](#python)
 * [PHP](#php)
 * [C](#c)
 * [Vue](#vue)
-* [TypeScript](#typescript)
+* [Rust](#rust)
 * [Kotlin](#kotlin)
+* [TypeScript](#typescript)
 * [Java](#java)
 * [miscellaneous](#miscellaneous)
-* [JavaScript](#javascript)
-* [Rust](#rust)
 * [Nix](#nix)
 * [Lua](#lua)
 * [HTML](#html)
@@ -32,6 +32,68 @@
 * [C#](#c-2)
 * [CSS](#css)
 * [MATLAB](#matlab)
+
+## JavaScript
+
+* [maillab/cloud-mail](https://github.com/maillab/cloud-mail) - A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
+
+* [lain39/qqnotifier](https://github.com/lain39/qqnotifier) - 基于 Cloudflare Workers 构建的 兼容 Telegram 接口协议的 Serverless QQBot API 转换网关。
+
+* [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
+
+* [HaxIOX/northrealm-mqtt](https://github.com/HaxIOX/northrealm-mqtt) - Northrealm (NR) — MQTT client.
+
+* [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
+
+* [metowolf/Meting-API](https://github.com/metowolf/Meting-API) - 🐳 Meting API 的容器化
+
+* [ShadowHunt-yi/musicPage](https://github.com/ShadowHunt-yi/musicPage) -
+
+* [fishjar/kiss-worker](https://github.com/fishjar/kiss-worker) - A simple data sync service for KISSS-Translator.
+
+* [xiyewuqiu/new-lmage](https://github.com/xiyewuqiu/new-lmage) -
+
+* [win12-online/win12](https://github.com/win12-online/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
+
+* [reymond-group/smilesDrawer](https://github.com/reymond-group/smilesDrawer) - A small, highly performant JavaScript component for parsing and drawing SMILES strings. Released under the MIT license.
+
+* [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
+
+* [hitokoto-osc/hitokoto-api](https://github.com/hitokoto-osc/hitokoto-api) - 版本：1，现行的 API 运行框架。
+
+* [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+
+* [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到 ClawCloud\Render\Koyeb
+
+* [chatgptuk/Real-US-Address-Generator](https://github.com/chatgptuk/Real-US-Address-Generator) -
+
+* [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+
+* [setube/vue-xiuxiangame](https://github.com/setube/vue-xiuxiangame) - 文字游戏: 我的文字修仙全靠刷
+
+* [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
+
+* [leeenx/OneStroke](https://github.com/leeenx/OneStroke) - H5小游戏100例：一笔画
+
+* [HypnosNova/Bejeweled](https://github.com/HypnosNova/Bejeweled) - POPCAP的宝石迷阵网页版代码
+
+* [316k/tap-the-black-tiles](https://github.com/316k/tap-the-black-tiles) - A free clone of Don't Tap the White Tiles (aka Piano Tiles)
+
+* [arcxingye/EatKano](https://github.com/arcxingye/EatKano) - H5 Games
+
+* [FounderIsShadowWalker/reactChess](https://github.com/FounderIsShadowWalker/reactChess) - 一个react写的跳棋
+
+* [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - The source code for 2048
+
+* [BKcore/HexGL](https://github.com/BKcore/HexGL) - Source code of HexGL, a futuristic HTML5 racing game
+
+* [IvarK/IvarK.github.io](https://github.com/IvarK/IvarK.github.io) - Antimatter Dimensions
+
+* [nroutasuo/level13](https://github.com/nroutasuo/level13) - Incremental browser text adventure
+
+* [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - edgetunnel2 VLESS/Trojan/SS 多功能面板
+
+* [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
 
 ## Go
 
@@ -135,17 +197,29 @@
 
 * [xororz/web-realesrgan](https://github.com/xororz/web-realesrgan) - Run Real-ESRGAN/Real-CUGAN in Your Local Browser on Any Device. Powered by TensorFlow.js. Support computing with WebGL and WebGPU.
 
-## TypeScript
+## Rust
 
 * [t8y2/dbx](https://github.com/t8y2/dbx) - 15MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.15MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。
+
+* [nearai/ironclaw](https://github.com/nearai/ironclaw) - IronClaw is an Agent OS focused on privacy, security and extensibility
+
+* [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
+
+## Kotlin
+
+* [wxxsfxyzm/InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) - More Expressive InstallerX !
+
+* [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
+
+* [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
+
+## TypeScript
 
 * [dark-hxx/keyfarm-zh](https://github.com/dark-hxx/keyfarm-zh) - 键盘农场游戏——用农作物、动物游戏化你的打字
 
 * [KuekHaoYang/KVideo](https://github.com/KuekHaoYang/KVideo) - 一个基于 Next.js 16 构建的现代化视频聚合播放平台。采用独特的 "Liquid Glass" 设计语言，提供流畅的视觉体验和强大的视频搜索功能。
 
 * [Anarkh-Lee/visual-docker-compose](https://github.com/Anarkh-Lee/visual-docker-compose) - 一款现代化的 Docker Compose 可视化生成器，通过拖拽操作快速构建容器编排配置文件。
-
-* [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 
 * [Frankieli123/dns-panel](https://github.com/Frankieli123/dns-panel) -
 
@@ -197,19 +271,13 @@
 
 * [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
-## Kotlin
-
-* [wxxsfxyzm/InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) - More Expressive InstallerX !
-
-* [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
-
-* [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
-
 ## Java
 
 * [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
 * [Syngnat/missav-bot](https://github.com/Syngnat/missav-bot) - 一个基于 Telegram 的视频推送机器人,自动抓取 MissAV 最新视频并推送给订阅用户。
+
+* [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 
 * [rikka0w0/wsmc](https://github.com/rikka0w0/wsmc) - Enable Websocket support for Minecraft Java.
 
@@ -242,72 +310,6 @@
 * [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 
 * [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
-
-## JavaScript
-
-* [lain39/qqnotifier](https://github.com/lain39/qqnotifier) - 基于 Cloudflare Workers 构建的 兼容 Telegram 接口协议的 Serverless QQBot API 转换网关。
-
-* [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
-
-* [HaxIOX/northrealm-mqtt](https://github.com/HaxIOX/northrealm-mqtt) - Northrealm (NR) — MQTT client.
-
-* [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
-
-* [metowolf/Meting-API](https://github.com/metowolf/Meting-API) - 🐳 Meting API 的容器化
-
-* [ShadowHunt-yi/musicPage](https://github.com/ShadowHunt-yi/musicPage) -
-
-* [fishjar/kiss-worker](https://github.com/fishjar/kiss-worker) - A simple data sync service for KISSS-Translator.
-
-* [xiyewuqiu/new-lmage](https://github.com/xiyewuqiu/new-lmage) -
-
-* [win12-online/win12](https://github.com/win12-online/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
-
-* [reymond-group/smilesDrawer](https://github.com/reymond-group/smilesDrawer) - A small, highly performant JavaScript component for parsing and drawing SMILES strings. Released under the MIT license.
-
-* [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
-
-* [hitokoto-osc/hitokoto-api](https://github.com/hitokoto-osc/hitokoto-api) - 版本：1，现行的 API 运行框架。
-
-* [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-
-* [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到 ClawCloud\Render\Koyeb
-
-* [chatgptuk/Real-US-Address-Generator](https://github.com/chatgptuk/Real-US-Address-Generator) -
-
-* [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-
-* [setube/vue-xiuxiangame](https://github.com/setube/vue-xiuxiangame) - 文字游戏: 我的文字修仙全靠刷
-
-* [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
-
-* [leeenx/OneStroke](https://github.com/leeenx/OneStroke) - H5小游戏100例：一笔画
-
-* [HypnosNova/Bejeweled](https://github.com/HypnosNova/Bejeweled) - POPCAP的宝石迷阵网页版代码
-
-* [316k/tap-the-black-tiles](https://github.com/316k/tap-the-black-tiles) - A free clone of Don't Tap the White Tiles (aka Piano Tiles)
-
-* [arcxingye/EatKano](https://github.com/arcxingye/EatKano) - H5 Games
-
-* [FounderIsShadowWalker/reactChess](https://github.com/FounderIsShadowWalker/reactChess) - 一个react写的跳棋
-
-* [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - The source code for 2048
-
-* [BKcore/HexGL](https://github.com/BKcore/HexGL) - Source code of HexGL, a futuristic HTML5 racing game
-
-* [IvarK/IvarK.github.io](https://github.com/IvarK/IvarK.github.io) - Antimatter Dimensions
-
-* [nroutasuo/level13](https://github.com/nroutasuo/level13) - Incremental browser text adventure
-
-* [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - edgetunnel2 VLESS/Trojan/SS 多功能面板
-
-* [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
-
-## Rust
-
-* [nearai/ironclaw](https://github.com/nearai/ironclaw) - IronClaw is an Agent OS focused on privacy, security and extensibility
-
-* [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 
 ## Nix
 
