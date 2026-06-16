@@ -2,9 +2,9 @@
 
 # Some Stars
 
-⭐ <a href="https://jerryz.com.cn/"  target="_blank">ZCGR</a>的star列表，自动更新 ⭐
+⭐ <a href="https://blog.chgr.cc/"  target="_blank">ZSCGR</a>的star列表，自动更新 ⭐
 
-<a href="https://rsshub.app/github/starred_repos/YangguangZhou"  target="_blank" title="基于rsshub的订阅">RSS订阅</a> <a href="https://stars.jerryz.com.cn"  target="_blank" title="Stars导航">Stars导航</a>
+<a href="https://rsshub.chgr.cc/github/starred_repos/ZSCGR"  target="_blank" title="基于rsshub的订阅">RSS订阅</a> <a href="https://star.chgr.cc"  target="_blank" title="Stars导航">Stars导航</a>
 
 </div><br>
 
