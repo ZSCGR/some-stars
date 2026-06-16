@@ -17,7 +17,7 @@ jobs:
     steps:
       - uses: actions/checkout@v6
       - name: some generator
-        uses: ZSCGR/mawesome@v2.2.3-beta.1
+        uses: ZSCGR/mawesome@v2.2.3-beta.2
         with:
           api-token: ${{ secrets.PERSONAL_TOKEN }}
           github-email: ${{ secrets.USER_EMAIL }}
