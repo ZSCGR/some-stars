@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+* [Go](#go)
 * [Python](#python)
 * [PHP](#php)
 * [C](#c)
@@ -17,7 +18,6 @@
 * [TypeScript](#typescript)
 * [Kotlin](#kotlin)
 * [Java](#java)
-* [Go](#go)
 * [miscellaneous](#miscellaneous)
 * [JavaScript](#javascript)
 * [Rust](#rust)
@@ -32,6 +32,28 @@
 * [C#](#c-2)
 * [CSS](#css)
 * [MATLAB](#matlab)
+
+## Go
+
+* [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+
+* [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
+
+* [soxft/busuanzi](https://github.com/soxft/busuanzi) - A simple website statistics analyzer
+
+* [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
+
+* [Jinnrry/PMail](https://github.com/Jinnrry/PMail) - Private EMail Server
+
+* [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+
+* [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+
+* [shazow/ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
+
+* [kingwrcy/moments](https://github.com/kingwrcy/moments) - 极简朋友圈
+
+* [deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) - 代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。
 
 ## Python
 
@@ -196,26 +218,6 @@
 * [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 
 * [houbb/sensitive-word](https://github.com/houbb/sensitive-word) -  👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。内置支持单词标签分类分级。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)
-
-## Go
-
-* [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
-
-* [soxft/busuanzi](https://github.com/soxft/busuanzi) - A simple website statistics analyzer
-
-* [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
-
-* [Jinnrry/PMail](https://github.com/Jinnrry/PMail) - Private EMail Server
-
-* [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
-
-* [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
-
-* [shazow/ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
-
-* [kingwrcy/moments](https://github.com/kingwrcy/moments) - 极简朋友圈
-
-* [deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) - 代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。
 
 ## miscellaneous
 
