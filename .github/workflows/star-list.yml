@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
   schedule:
     # Execute every week at 0:00 CST (UTC+8), which is 16:00 UTC on the previous day
-    - cron: '23 18 * * *' # This runs at 16:00 UTC on Saturday, which is 0:00 CST on Sunday
+    - cron: '23 18 * * *' # 每天 UTC 18:23 (北京时间次日凌晨 02:23)
   watch:
     types: [started]
 
@@ -17,7 +17,7 @@ jobs:
     steps:
       - uses: actions/checkout@v6
       - name: some generator
-        uses: ZSCGR/mawesome@v2.2.1
+        uses: ZSCGR/mawesome@v2.2.2
         with:
           api-token: ${{ secrets.PERSONAL_TOKEN }}
           github-email: ${{ secrets.USER_EMAIL }}
