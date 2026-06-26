@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [Rust](#rust)
 *   [JavaScript](#javascript)
 *   [Go](#go)
@@ -19,7 +20,6 @@
 *   [Vue](#vue)
 *   [Kotlin](#kotlin)
 *   [TypeScript](#typescript)
-*   [Java](#java)
 *   [miscellaneous](#miscellaneous)
 *   [Nix](#nix)
 *   [Lua](#lua)
@@ -32,6 +32,24 @@
 *   [C#](#c-2)
 *   [CSS](#css)
 *   [MATLAB](#matlab)
+
+## Java
+
+*   [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
+
+*   [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
+
+*   [Syngnat/missav-bot](https://github.com/Syngnat/missav-bot) - 一个基于 Telegram 的视频推送机器人,自动抓取 MissAV 最新视频并推送给订阅用户。
+
+*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
+
+*   [rikka0w0/wsmc](https://github.com/rikka0w0/wsmc) - Enable Websocket support for Minecraft Java.
+
+*   [isinvon/gold-foil-font-api](https://github.com/isinvon/gold-foil-font-api) - gold-foil-api - 烫金字体API, 为新年欢呼!
+
+*   [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
+
+*   [houbb/sensitive-word](https://github.com/houbb/sensitive-word) -  👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。内置支持单词标签分类分级。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)
 
 ## Rust
 
@@ -272,22 +290,6 @@
 *   [vercel-community/php](https://github.com/vercel-community/php) - 🐘 PHP Runtime for ▲ Vercel Serverless Functions (support 7.4-8.5)
 
 *   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
-
-## Java
-
-*   [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
-
-*   [Syngnat/missav-bot](https://github.com/Syngnat/missav-bot) - 一个基于 Telegram 的视频推送机器人,自动抓取 MissAV 最新视频并推送给订阅用户。
-
-*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
-
-*   [rikka0w0/wsmc](https://github.com/rikka0w0/wsmc) - Enable Websocket support for Minecraft Java.
-
-*   [isinvon/gold-foil-font-api](https://github.com/isinvon/gold-foil-font-api) - gold-foil-api - 烫金字体API, 为新年欢呼!
-
-*   [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
-
-*   [houbb/sensitive-word](https://github.com/houbb/sensitive-word) -  👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。内置支持单词标签分类分级。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)
 
 ## miscellaneous
 
