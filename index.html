@@ -130,6 +130,8 @@
             padding: 20px; border-radius: 16px; 
             display: flex; align-items: flex-start; 
             transition: transform 0.3s ease;
+            cursor: pointer;
+            color: inherit;
         }
         .repo-card:hover { transform: translateY(-8px); background: rgba(255,255,255,0.5); }
         
@@ -215,7 +217,7 @@
                     <div class="category-title">${lang} Repositories</div>
                     <div class="repo-grid">
                         ${data[lang].map(repo => `
-                            <div class="repo-card glass-effect" onclick="window.open('${repo.html_url}', '_blank')">
+                            <a class="repo-card glass-effect" href="${repo.html_url}" target="_blank" rel="noopener noreferrer">
                                 <img class="repo-avatar" src="${repo.owner.avatar_url}">
                                 <div style="flex:1; overflow:hidden;">
                                     <div class="repo-name">${repo.name}</div>
@@ -225,7 +227,7 @@
                                         <span><i class="ti-eye"></i> ${repo.watchers_count}</span>
                                     </div>
                                 </div>
-                            </div>
+                            </a>
                         `).join('')}
                     </div>
                 </div>
@@ -246,13 +248,13 @@
         }
         if(!query) return renderContent(allData);
         categoriesContainer.innerHTML = `<div class="category-title">搜索结果</div><div class="repo-grid">${matched.map(r => `
-            <div class="repo-card glass-effect" onclick="window.open('${r.html_url}', '_blank')">
+            <a class="repo-card glass-effect" href="${r.html_url}" target="_blank" rel="noopener noreferrer">
                 <img class="repo-avatar" src="${r.owner.avatar_url}">
                 <div style="flex:1; overflow:hidden;">
                     <div class="repo-name">${r.name}</div>
                     <div class="repo-desc">${r.description || ''}</div>
                 </div>
-            </div>`).join('')}</div>`;
+            </a>`).join('')}</div>`;
     });
 
     function toggleSidebar() { document.getElementById('sidebar').classList.toggle('active'); }
