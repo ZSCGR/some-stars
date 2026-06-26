@@ -224,7 +224,7 @@
                                     <div class="repo-desc">${repo.description || 'No description available.'}</div>
                                     <div class="repo-meta">
                                         <span><i class="ti-star"></i> ${repo.stargazers_count}</span>
-                                        <span><i class="ti-eye"></i> ${repo.watchers_count}</span>
+                                        <span><i class="ti-loop"></i> ${repo.forks_count}</span>
                                     </div>
                                 </div>
                             </a>
@@ -255,7 +255,7 @@
                     <div class="repo-desc">${r.description || ''}</div>
                     <div class="repo-meta">
                         <span><i class="ti-star"></i> ${r.stargazers_count}</span>
-                        <span><i class="ti-eye"></i> ${r.watchers_count}</span>
+                        <span><i class="ti-loop"></i> ${r.forks_count}</span>
                     </div>
                 </div>
             </a>`).join('')}</div>`;
