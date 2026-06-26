@@ -253,6 +253,10 @@
                 <div style="flex:1; overflow:hidden;">
                     <div class="repo-name">${r.name}</div>
                     <div class="repo-desc">${r.description || ''}</div>
+                    <div class="repo-meta">
+                        <span><i class="ti-star"></i> ${r.stargazers_count}</span>
+                        <span><i class="ti-eye"></i> ${r.watchers_count}</span>
+                    </div>
                 </div>
             </a>`).join('')}</div>`;
     });
