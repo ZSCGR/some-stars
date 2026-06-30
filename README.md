@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [Java](#java)
 *   [Rust](#rust)
 *   [JavaScript](#javascript)
@@ -25,13 +26,20 @@
 *   [Lua](#lua)
 *   [HTML](#html)
 *   [Ruby](#ruby)
-*   [Shell](#shell)
 *   [C++](#c-1)
 *   [Roff](#roff)
 *   [Dart](#dart)
 *   [C#](#c-2)
 *   [CSS](#css)
 *   [MATLAB](#matlab)
+
+## Shell
+
+*   [JackHack96/EasyEffects-Presets](https://github.com/JackHack96/EasyEffects-Presets) - Collection of PulseEffects presets
+
+*   [vevc/one-node](https://github.com/vevc/one-node) - 万物皆可搭节点 | Everything can be a proxy node
+
+*   [ttionya/vaultwarden-backup](https://github.com/ttionya/vaultwarden-backup) - Backup vaultwarden (formerly known as bitwarden\_rs) SQLite3/PostgreSQL/MySQL/MariaDB database by rclone. (Docker)
 
 ## Java
 
@@ -346,12 +354,6 @@
 ## Ruby
 
 *   [basecamp/fizzy](https://github.com/basecamp/fizzy) - Kanban as it should be. Not as it has been.
-
-## Shell
-
-*   [vevc/one-node](https://github.com/vevc/one-node) - 万物皆可搭节点 | Everything can be a proxy node
-
-*   [ttionya/vaultwarden-backup](https://github.com/ttionya/vaultwarden-backup) - Backup vaultwarden (formerly known as bitwarden\_rs) SQLite3/PostgreSQL/MySQL/MariaDB database by rclone. (Docker)
 
 ## C++
 
