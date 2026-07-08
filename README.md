@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+*   [C](#c)
 *   [Shell](#shell)
 *   [Java](#java)
 *   [Rust](#rust)
@@ -17,7 +18,6 @@
 *   [Go](#go)
 *   [Python](#python)
 *   [PHP](#php)
-*   [C](#c)
 *   [Vue](#vue)
 *   [Kotlin](#kotlin)
 *   [TypeScript](#typescript)
@@ -32,6 +32,20 @@
 *   [C#](#c-2)
 *   [CSS](#css)
 *   [MATLAB](#matlab)
+
+## C
+
+*   [martin-ger/esp32\_ethernet\_router](https://github.com/martin-ger/esp32_ethernet_router) - An Ethernet to WiFi router for the WT32-ETH01 and W5500
+
+*   [xiaojieonly/Ehviewer\_CN\_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) - ehviewer，用爱发电，快乐前行
+
+*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+
+*   [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
+
+*   [tinyproxy/tinyproxy](https://github.com/tinyproxy/tinyproxy) - tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
+
+*   [martin-ger/esp32\_nat\_router](https://github.com/martin-ger/esp32_nat_router) - An AI-enabled NAT Router/Firewall for the ESP32
 
 ## Shell
 
@@ -212,18 +226,6 @@
 *   [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The 𝘥𝘦 𝘧𝘢𝘤𝘵𝘰 standard, self hosted, powerful and customizable, URL shortener in PHP
 
 *   [Licoy/wordpress-theme-puock](https://github.com/Licoy/wordpress-theme-puock) - :art: 一款基于WordPress开发的高颜值的自适应主题，支持白天与黑夜模式/无刷新加载/第三方登录等众多功能 | A high-value adaptive theme based on WordPress, supports light and dark modes, no refresh loading, etc.
-
-## C
-
-*   [xiaojieonly/Ehviewer\_CN\_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) - ehviewer，用爱发电，快乐前行
-
-*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-
-*   [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
-
-*   [tinyproxy/tinyproxy](https://github.com/tinyproxy/tinyproxy) - tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
-
-*   [martin-ger/esp32\_nat\_router](https://github.com/martin-ger/esp32_nat_router) - An AI-enabled NAT Router/Firewall for the ESP32
 
 ## Vue
 
