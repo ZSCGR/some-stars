@@ -57,6 +57,8 @@
 
 *   [xiyewuqiu/new-lmage](https://github.com/xiyewuqiu/new-lmage) -
 
+*   [win12-online/win12](https://github.com/win12-online/win12) - Win12 Online
+
 *   [reymond-group/smilesDrawer](https://github.com/reymond-group/smilesDrawer) - A small, highly performant JavaScript component for parsing and drawing SMILES strings. Released under the MIT license.
 
 *   [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
