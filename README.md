@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [C](#c)
@@ -19,9 +20,8 @@
 *   [Go](#go)
 *   [Python](#python)
 *   [PHP](#php)
-*   [Vue](#vue)
 *   [Kotlin](#kotlin)
-*   [miscellaneous](#miscellaneous)
+*   [Vue](#vue)
 *   [Nix](#nix)
 *   [Lua](#lua)
 *   [HTML](#html)
@@ -32,6 +32,30 @@
 *   [C#](#c-2)
 *   [CSS](#css)
 *   [MATLAB](#matlab)
+
+## miscellaneous
+
+*   [Anon-deisu/Mindustry-schematic-storage](https://github.com/Anon-deisu/Mindustry-schematic-storage) -
+
+*   [SpeedyOrc-C/HoYo-Glyphs](https://github.com/SpeedyOrc-C/HoYo-Glyphs) - Constructed scripts by HoYoverse 米哈游的架空文字
+
+*   [thryvos/Tasmota-WT32-ETH01](https://github.com/thryvos/Tasmota-WT32-ETH01) -  Guide to flash Tasmota firmware into WT32-ETH01
+
+*   [egnor/wt32-eth01](https://github.com/egnor/wt32-eth01) - Bits and bobs related to Wireless-Tag's WT32-ETH01 board
+
+*   [YOURLS/awesome](https://github.com/YOURLS/awesome) - 🎉 A curated list of awesome things related to YOURLS
+
+*   [Meekdai/Gmemp](https://github.com/Meekdai/Gmemp) - Gmemp is a music player All in Github
+
+*   [joevess/IPTV](https://github.com/joevess/IPTV) - IPTV直播源抓取 自动整合hao趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新
+
+*   [Blankj/awesome-comment](https://github.com/Blankj/awesome-comment) - :boom: Funny comments
+
+*   [qwd/LocationList](https://github.com/qwd/LocationList) - 和风天气常用城市列表
+
+*   [chatanywhere/GPT\_API\_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT\&DeepSeek API Key，免费ChatGPT\&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
+
+*   [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
 
 ## TypeScript
 
@@ -100,6 +124,8 @@
 *   [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - 🏖️ A serverless, open-source file hosting solution built on Cloudflare. Supports image hosting, secure file storage, and personal cloud drive capabilities.
 
 *   [maillab/cloud-mail](https://github.com/maillab/cloud-mail) - A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
+
+*   [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Check your IP address & geolocation, test IP for WebRTC and DNS IP leaks, run an IP quality check, browser fingerprint check, website availability check, network speed test, global latency test, MTR test, Whois search, and more.
 
 *   [lain39/qqnotifier](https://github.com/lain39/qqnotifier) - 基于 Cloudflare Workers 构建的 兼容 Telegram 接口协议的 Serverless QQBot API 转换网关。
 
@@ -207,7 +233,7 @@
 
 *   [nearai/ironclaw](https://github.com/nearai/ironclaw) - IronClaw is an Agent OS focused on privacy, security and extensibility
 
-*   [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like GLM 5.2, Deepseek, and Kimi
+*   [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for low-cost models
 
 ## Go
 
@@ -291,16 +317,6 @@
 
 *   [Licoy/wordpress-theme-puock](https://github.com/Licoy/wordpress-theme-puock) - :art: 一款基于WordPress开发的高颜值的自适应主题，支持白天与黑夜模式/无刷新加载/第三方登录等众多功能 | A high-value adaptive theme based on WordPress, supports light and dark modes, no refresh loading, etc.
 
-## Vue
-
-*   [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Check your IP address & geolocation, test IP for WebRTC and DNS IP leaks, run an IP quality check, browser fingerprint check, website availability check, network speed test, global latency test, MTR test, Whois search, and more.
-
-*   [imsyy/vitepress-theme-curve](https://github.com/imsyy/vitepress-theme-curve) - 🎉 A Simple VitePress Theme | 一个极简的 VitePress 主题
-
-*   [stilleshan/subweb](https://github.com/stilleshan/subweb) - subweb 是基于 subconverter 订阅转换的前端项目,方便用户快速生成各平台的订阅链接.
-
-*   [xororz/web-realesrgan](https://github.com/xororz/web-realesrgan) - Run Real-ESRGAN/Real-CUGAN in Your Local Browser on Any Device. Powered by TensorFlow.js. Support computing with WebGL and WebGPU.
-
 ## Kotlin
 
 *   [wxxsfxyzm/InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) - More Expressive InstallerX !
@@ -309,27 +325,13 @@
 
 *   [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
 
-## miscellaneous
+## Vue
 
-*   [SpeedyOrc-C/HoYo-Glyphs](https://github.com/SpeedyOrc-C/HoYo-Glyphs) - Constructed scripts by HoYoverse 米哈游的架空文字
+*   [imsyy/vitepress-theme-curve](https://github.com/imsyy/vitepress-theme-curve) - 🎉 A Simple VitePress Theme | 一个极简的 VitePress 主题
 
-*   [thryvos/Tasmota-WT32-ETH01](https://github.com/thryvos/Tasmota-WT32-ETH01) -  Guide to flash Tasmota firmware into WT32-ETH01
+*   [stilleshan/subweb](https://github.com/stilleshan/subweb) - subweb 是基于 subconverter 订阅转换的前端项目,方便用户快速生成各平台的订阅链接.
 
-*   [egnor/wt32-eth01](https://github.com/egnor/wt32-eth01) - Bits and bobs related to Wireless-Tag's WT32-ETH01 board
-
-*   [YOURLS/awesome](https://github.com/YOURLS/awesome) - 🎉 A curated list of awesome things related to YOURLS
-
-*   [Meekdai/Gmemp](https://github.com/Meekdai/Gmemp) - Gmemp is a music player All in Github
-
-*   [joevess/IPTV](https://github.com/joevess/IPTV) - IPTV直播源抓取 自动整合hao趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新
-
-*   [Blankj/awesome-comment](https://github.com/Blankj/awesome-comment) - :boom: Funny comments
-
-*   [qwd/LocationList](https://github.com/qwd/LocationList) - 和风天气常用城市列表
-
-*   [chatanywhere/GPT\_API\_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT\&DeepSeek API Key，免费ChatGPT\&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
-
-*   [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
+*   [xororz/web-realesrgan](https://github.com/xororz/web-realesrgan) - Run Real-ESRGAN/Real-CUGAN in Your Local Browser on Any Device. Powered by TensorFlow.js. Support computing with WebGL and WebGPU.
 
 ## Nix
 
