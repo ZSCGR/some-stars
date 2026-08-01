@@ -57,8 +57,6 @@
 
 *   [ShadowHunt-yi/musicPage](https://github.com/ShadowHunt-yi/musicPage) -
 
-*   [fishjar/kiss-worker](https://github.com/fishjar/kiss-worker) - A simple data sync service for KISSS-Translator.
-
 *   [xiyewuqiu/new-lmage](https://github.com/xiyewuqiu/new-lmage) -
 
 *   [win12-online/win12](https://github.com/win12-online/win12) - Win12 Online
@@ -258,6 +256,8 @@
 *   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 *   [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
+
+*   [fishjar/kiss-worker](https://github.com/fishjar/kiss-worker) - A simple data sync service for KISSS-Translator.
 
 *   [soxft/busuanzi](https://github.com/soxft/busuanzi) - A simple website statistics analyzer
 
