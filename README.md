@@ -147,7 +147,7 @@
 
 *   [qwd/LocationList](https://github.com/qwd/LocationList) - 和风天气常用城市列表
 
-*   [chatanywhere/GPT\_API\_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT\&DeepSeek API Key，免费ChatGPT\&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
+*   [chatanywhere/GPT\_API\_free](https://github.com/chatanywhere/GPT_API_free) - 免费大模型API，支持免费调用GPT、DeepSeek等主流模型，免费额度10000点，每日刷新！另付费价格最低官方1-2折！
 
 *   [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
 
