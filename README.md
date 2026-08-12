@@ -28,6 +28,7 @@
 *   [HTML](#html)
 *   [Ruby](#ruby)
 *   [Roff](#roff)
+*   [Markdown](#markdown)
 *   [Dart](#dart)
 *   [C#](#c-2)
 *   [CSS](#css)
@@ -51,7 +52,7 @@
 
 *   [evannotfound/vercount](https://github.com/evannotfound/vercount) - Busuanzi Compatible Website Counter Powered by Go + Redis
 
-*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no tracking, self-hosted or in the cloud.
+*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.
 
 *   [TokenRollAI/curl-resume](https://github.com/TokenRollAI/curl-resume) - A cool terminal resume with streaming animations - curl -N me.pdjjq.org
 
@@ -112,8 +113,6 @@
 *   [egnor/wt32-eth01](https://github.com/egnor/wt32-eth01) - Bits and bobs related to Wireless-Tag's WT32-ETH01 board
 
 *   [YOURLS/awesome](https://github.com/YOURLS/awesome) - 🎉 A curated list of awesome things related to YOURLS
-
-*   [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 
 *   [Meekdai/Gmemp](https://github.com/Meekdai/Gmemp) - Gmemp is a music player All in Github
 
@@ -390,6 +389,10 @@
 ## Roff
 
 *   [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
+
+## Markdown
+
+*   [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - Free domain registration and practical DNS learning resources for everyone.
 
 ## Dart
 
