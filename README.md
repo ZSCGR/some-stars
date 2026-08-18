@@ -24,7 +24,6 @@
 *   [Kotlin](#kotlin)
 *   [Vue](#vue)
 *   [Nix](#nix)
-*   [Lua](#lua)
 *   [HTML](#html)
 *   [Ruby](#ruby)
 *   [Roff](#roff)
@@ -226,6 +225,8 @@
 
 *   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 
+*   [Qsgs-Fans/FreeKill](https://github.com/Qsgs-Fans/FreeKill) - An open source board game engine, written in Qt and Lua.
+
 *   [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 
 *   [tinyproxy/tinyproxy](https://github.com/tinyproxy/tinyproxy) - tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
@@ -361,10 +362,6 @@
 ## Nix
 
 *   [voidlhf/StarRailGrubThemes](https://github.com/voidlhf/StarRailGrubThemes) - A pack of GRUB2 themes for Honkai: Star Rail
-
-## Lua
-
-*   [Qsgs-Fans/FreeKill](https://github.com/Qsgs-Fans/FreeKill) - An open source board game engine, written in Qt and Lua.
 
 ## HTML
 
