@@ -10,11 +10,11 @@
 
 ## Table of Contents
 
-*   [miscellaneous](#miscellaneous)
+*   [C++](#c)
 *   [TypeScript](#typescript)
+*   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
 *   [Rust](#rust)
-*   [C++](#c)
 *   [C](#c-1)
 *   [Shell](#shell)
 *   [Java](#java)
@@ -33,33 +33,19 @@
 *   [CSS](#css)
 *   [MATLAB](#matlab)
 
-## miscellaneous
+## C++
 
-*   [mdc-ng/mdc-ng](https://github.com/mdc-ng/mdc-ng) - MDC next generation
+*   [qgis/QGIS](https://github.com/qgis/QGIS) - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
 
-*   [saladinxp/komari-nano-muse](https://github.com/saladinxp/komari-nano-muse) - NanoMuse — Komari Monitor theme with anime-HUD aesthetic. Light sci-fi dashboard for server monitoring.
+*   [xifan2333/fcitx5-vinput](https://github.com/xifan2333/fcitx5-vinput) - Voice input for Fcitx5 — local and cloud ASR, LLM rewriting, cross-distro packages
 
-*   [Anon-deisu/Mindustry-schematic-storage](https://github.com/Anon-deisu/Mindustry-schematic-storage) -
+*   [MetaCubeX/subconverter](https://github.com/MetaCubeX/subconverter) - Utility to convert between various subscription format
 
-*   [SpeedyOrc-C/HoYo-Glyphs](https://github.com/SpeedyOrc-C/HoYo-Glyphs) - Constructed scripts by HoYoverse 米哈游的架空文字
+*   [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 
-*   [thryvos/Tasmota-WT32-ETH01](https://github.com/thryvos/Tasmota-WT32-ETH01) -  Guide to flash Tasmota firmware into WT32-ETH01
+*   [teeworlds/teeworlds](https://github.com/teeworlds/teeworlds) - A retro multiplayer shooter
 
-*   [egnor/wt32-eth01](https://github.com/egnor/wt32-eth01) - Bits and bobs related to Wireless-Tag's WT32-ETH01 board
-
-*   [YOURLS/awesome](https://github.com/YOURLS/awesome) - 🎉 A curated list of awesome things related to YOURLS
-
-*   [Meekdai/Gmemp](https://github.com/Meekdai/Gmemp) - Gmemp is a music player All in Github
-
-*   [joevess/IPTV](https://github.com/joevess/IPTV) - IPTV直播源抓取 自动整合hao趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新
-
-*   [Blankj/awesome-comment](https://github.com/Blankj/awesome-comment) - :boom: Funny comments
-
-*   [qwd/LocationList](https://github.com/qwd/LocationList) - 和风天气常用城市列表
-
-*   [chatanywhere/GPT\_API\_free](https://github.com/chatanywhere/GPT_API_free) - 免费大模型API，支持免费调用GPT、DeepSeek等主流模型，免费额度10000点，每日刷新！另付费价格最低官方1-2折！
-
-*   [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
+*   [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth) - An open source, turn-based strategy game with a high fantasy theme.
 
 ## TypeScript
 
@@ -128,6 +114,32 @@
 *   [vercel-community/php](https://github.com/vercel-community/php) - 🐘 PHP Runtime for ▲ Vercel Serverless Functions (support 7.4-8.5)
 
 *   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
+
+## miscellaneous
+
+*   [saladinxp/komari-nano-muse](https://github.com/saladinxp/komari-nano-muse) - NanoMuse — Komari Monitor theme with anime-HUD aesthetic. Light sci-fi dashboard for server monitoring.
+
+*   [Anon-deisu/Mindustry-schematic-storage](https://github.com/Anon-deisu/Mindustry-schematic-storage) -
+
+*   [SpeedyOrc-C/HoYo-Glyphs](https://github.com/SpeedyOrc-C/HoYo-Glyphs) - Constructed scripts by HoYoverse 米哈游的架空文字
+
+*   [thryvos/Tasmota-WT32-ETH01](https://github.com/thryvos/Tasmota-WT32-ETH01) -  Guide to flash Tasmota firmware into WT32-ETH01
+
+*   [egnor/wt32-eth01](https://github.com/egnor/wt32-eth01) - Bits and bobs related to Wireless-Tag's WT32-ETH01 board
+
+*   [YOURLS/awesome](https://github.com/YOURLS/awesome) - 🎉 A curated list of awesome things related to YOURLS
+
+*   [Meekdai/Gmemp](https://github.com/Meekdai/Gmemp) - Gmemp is a music player All in Github
+
+*   [joevess/IPTV](https://github.com/joevess/IPTV) - IPTV直播源抓取 自动整合hao趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新
+
+*   [Blankj/awesome-comment](https://github.com/Blankj/awesome-comment) - :boom: Funny comments
+
+*   [qwd/LocationList](https://github.com/qwd/LocationList) - 和风天气常用城市列表
+
+*   [chatanywhere/GPT\_API\_free](https://github.com/chatanywhere/GPT_API_free) - 免费大模型API，支持免费调用GPT、DeepSeek等主流模型，免费额度10000点，每日刷新！另付费价格最低官方1-2折！
+
+*   [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
 
 ## JavaScript
 
@@ -206,18 +218,6 @@
 *   [nearai/ironclaw](https://github.com/nearai/ironclaw) - IronClaw is an Agent OS focused on privacy, security and extensibility
 
 *   [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3
-
-## C++
-
-*   [xifan2333/fcitx5-vinput](https://github.com/xifan2333/fcitx5-vinput) - Voice input for Fcitx5 — local and cloud ASR, LLM rewriting, cross-distro packages
-
-*   [MetaCubeX/subconverter](https://github.com/MetaCubeX/subconverter) - Utility to convert between various subscription format
-
-*   [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
-
-*   [teeworlds/teeworlds](https://github.com/teeworlds/teeworlds) - A retro multiplayer shooter
-
-*   [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth) - An open source, turn-based strategy game with a high fantasy theme.
 
 ## C
 
