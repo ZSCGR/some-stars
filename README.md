@@ -87,7 +87,7 @@
 
 *   [xiyewuqiu/new-lmage](https://github.com/xiyewuqiu/new-lmage) -
 
-*   [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
+*   [newsnext/newsnow](https://github.com/newsnext/newsnow) - Elegant reading of real-time and hottest news
 
 *   [koishi-shangxue-plugins/koishi-shangxue-apps](https://github.com/koishi-shangxue-plugins/koishi-shangxue-apps) - 小学在koishi的插件合集？
 
