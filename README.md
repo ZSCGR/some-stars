@@ -10,16 +10,16 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
+*   [Python](#python)
 *   [C++](#c)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
-*   [JavaScript](#javascript)
 *   [Rust](#rust)
 *   [C](#c-1)
 *   [Shell](#shell)
 *   [Java](#java)
 *   [Go](#go)
-*   [Python](#python)
 *   [PHP](#php)
 *   [Kotlin](#kotlin)
 *   [Vue](#vue)
@@ -32,6 +32,116 @@
 *   [C#](#c-2)
 *   [CSS](#css)
 *   [MATLAB](#matlab)
+
+## JavaScript
+
+*   [biuuu/genshin-wish-export](https://github.com/biuuu/genshin-wish-export) - Easily export the Genshin Impact wish record.
+
+*   [biuuu/star-rail-warp-export](https://github.com/biuuu/star-rail-warp-export) - Honkai: Star Rail Warp History Exporter
+
+*   [bakustarver/rpgmakermlinux-cicpoffs](https://github.com/bakustarver/rpgmakermlinux-cicpoffs) - Run any RPG Maker XP, VX, VX Ace, MV, MZ, TyranoBuilder, Godot, Construct 2/3, Nscripter game on linux natively
+
+*   [pdone/lx-music-source](https://github.com/pdone/lx-music-source) - 洛雪音乐源
+
+*   [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - 🏖️ A serverless, open-source file hosting solution built on Cloudflare. Supports image hosting, secure file storage, and personal cloud drive capabilities.
+
+*   [maillab/cloud-mail](https://github.com/maillab/cloud-mail) - A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
+
+*   [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Check your IP address & geolocation, test IP for WebRTC and DNS IP leaks, run an IP quality check, browser fingerprint check, website availability check, network speed test, global latency test, MTR test, Whois search, and more.
+
+*   [lain39/qqnotifier](https://github.com/lain39/qqnotifier) - 基于 Cloudflare Workers 构建的 兼容 Telegram 接口协议的 Serverless QQBot API 转换网关。
+
+*   [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
+
+*   [HaxIOX/northrealm-mqtt](https://github.com/HaxIOX/northrealm-mqtt) - Northrealm (NR) — MQTT client.
+
+*   [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
+
+*   [metowolf/Meting-API](https://github.com/metowolf/Meting-API) - 🐳 Meting API 的容器化
+
+*   [ShadowHunt-yi/musicPage](https://github.com/ShadowHunt-yi/musicPage) -
+
+*   [win12-online/win12](https://github.com/win12-online/win12) - Win12 Online
+
+*   [reymond-group/smilesDrawer](https://github.com/reymond-group/smilesDrawer) - A small, highly performant JavaScript component for parsing and drawing SMILES strings. Released under the MIT license.
+
+*   [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
+
+*   [hitokoto-osc/hitokoto-api](https://github.com/hitokoto-osc/hitokoto-api) - 版本：1，现行的 API 运行框架。
+
+*   [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+
+*   [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 自建 Docker 镜像加速与管理服务。零磁盘缓存、可视化面板、支持上游账号认证，支持一键部署Docker、K8s、Quay、Ghcr、Mcr、elastic、nvcr等镜像加速
+
+*   [chatgptuk/Real-US-Address-Generator](https://github.com/chatgptuk/Real-US-Address-Generator) -
+
+*   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+
+*   [setube/vue-xiuxiangame](https://github.com/setube/vue-xiuxiangame) - 文字游戏: 我的文字修仙全靠刷
+
+*   [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
+
+*   [leeenx/OneStroke](https://github.com/leeenx/OneStroke) - H5小游戏100例：一笔画
+
+*   [HypnosNova/Bejeweled](https://github.com/HypnosNova/Bejeweled) - POPCAP的宝石迷阵网页版代码
+
+*   [316k/tap-the-black-tiles](https://github.com/316k/tap-the-black-tiles) - A free clone of Don't Tap the White Tiles (aka Piano Tiles)
+
+*   [arcxingye/EatKano](https://github.com/arcxingye/EatKano) - H5 Games
+
+*   [FounderIsShadowWalker/reactChess](https://github.com/FounderIsShadowWalker/reactChess) - 一个react写的跳棋
+
+*   [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - The source code for 2048
+
+*   [BKcore/HexGL](https://github.com/BKcore/HexGL) - Source code of HexGL, a futuristic HTML5 racing game
+
+*   [IvarK/IvarK.github.io](https://github.com/IvarK/IvarK.github.io) - Antimatter Dimensions
+
+*   [nroutasuo/level13](https://github.com/nroutasuo/level13) - Incremental browser text adventure
+
+*   [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - edgetunnel2 VLESS/Trojan/SS 多功能面板
+
+*   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
+
+## Python
+
+*   [kldsjfas/astrbot\_plugin\_majsoul](https://github.com/kldsjfas/astrbot_plugin_majsoul) - 基于AstrBot开发的轻量化雀魂战绩查谱插件
+
+*   [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
+
+*   [luori7hao/astrbot\_plugin\_xinsanguo\_voice](https://github.com/luori7hao/astrbot_plugin_xinsanguo_voice) - AstrBot 新三国语音梗插件 - 识别聊天中的新三国经典台词关键词，自动发送对应语音片段
+
+*   [nonebot/nonebot2](https://github.com/nonebot/nonebot2) - 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
+
+*   [guofei9987/blind\_watermark](https://github.com/guofei9987/blind_watermark) - Blind\&Invisible Watermark ，图片盲水印，提取水印无须原图！
+
+*   [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
+
+*   [CassiopeiaCode/TenCyclesofFate](https://github.com/CassiopeiaCode/TenCyclesofFate) - 《浮生十梦》 是一款基于 Web 的沉浸式文字冒险游戏。玩家在游戏中扮演一个与命运博弈的角色，每天有十次机会进入不同的“梦境”（即生命轮回），体验由 AI 动态生成的、独一无二的人生故事。游戏的核心在于“知足”与“贪欲”之间的抉择：是见好就收，还是追求更高的回报但可能失去一切？
+
+*   [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
+
+*   [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - ⚡️ IPTV直播源自动更新工具：自动采集、校验、测速并生成可播放结果，支持 M3U/TXT/API 输出、自定义频道、IPv4/IPv6、Docker、GitHub Actions、CLI 与 GUI 多端部署
+
+*   [nikolaik/docker-python-nodejs](https://github.com/nikolaik/docker-python-nodejs) - 🐳 Python with Node.js docker image
+
+*   [zhewang448/astrbot\_plugin\_wsde](https://github.com/zhewang448/astrbot_plugin_wsde) - 一个可以指定发出维什戴尔游戏内中日语音的AstrBot插件
+
+*   [amnweb/yasb](https://github.com/amnweb/yasb) - A highly configurable Windows status bar written in Python.
+
+*   [csgo-adc/TencentClassDownloader](https://github.com/csgo-adc/TencentClassDownloader) - 腾讯课堂视频下载。腾讯课堂马上就要关服了，还有没保存的课程快来下载吧
+
+*   [huashengdun/webssh](https://github.com/huashengdun/webssh) - :seedling: Web based ssh client
+
+*   [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
+
+*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+
+*   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
+
+*   [LittleNyima/honkai-starrail-toolkit](https://github.com/LittleNyima/honkai-starrail-toolkit) - 《崩坏：星穹铁道》工具箱，支持抽卡分析、帧率解锁等功能
+
+*   [labmlai/annotated\_deep\_learning\_paper\_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
 
 ## C++
 
@@ -141,72 +251,6 @@
 
 *   [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
 
-## JavaScript
-
-*   [bakustarver/rpgmakermlinux-cicpoffs](https://github.com/bakustarver/rpgmakermlinux-cicpoffs) - Run any RPG Maker XP, VX, VX Ace, MV, MZ, TyranoBuilder, Godot, Construct 2/3, Nscripter game on linux natively
-
-*   [pdone/lx-music-source](https://github.com/pdone/lx-music-source) - 洛雪音乐源
-
-*   [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - 🏖️ A serverless, open-source file hosting solution built on Cloudflare. Supports image hosting, secure file storage, and personal cloud drive capabilities.
-
-*   [maillab/cloud-mail](https://github.com/maillab/cloud-mail) - A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
-
-*   [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Check your IP address & geolocation, test IP for WebRTC and DNS IP leaks, run an IP quality check, browser fingerprint check, website availability check, network speed test, global latency test, MTR test, Whois search, and more.
-
-*   [lain39/qqnotifier](https://github.com/lain39/qqnotifier) - 基于 Cloudflare Workers 构建的 兼容 Telegram 接口协议的 Serverless QQBot API 转换网关。
-
-*   [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
-
-*   [HaxIOX/northrealm-mqtt](https://github.com/HaxIOX/northrealm-mqtt) - Northrealm (NR) — MQTT client.
-
-*   [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
-
-*   [metowolf/Meting-API](https://github.com/metowolf/Meting-API) - 🐳 Meting API 的容器化
-
-*   [ShadowHunt-yi/musicPage](https://github.com/ShadowHunt-yi/musicPage) -
-
-*   [win12-online/win12](https://github.com/win12-online/win12) - Win12 Online
-
-*   [reymond-group/smilesDrawer](https://github.com/reymond-group/smilesDrawer) - A small, highly performant JavaScript component for parsing and drawing SMILES strings. Released under the MIT license.
-
-*   [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
-
-*   [hitokoto-osc/hitokoto-api](https://github.com/hitokoto-osc/hitokoto-api) - 版本：1，现行的 API 运行框架。
-
-*   [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-
-*   [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 自建 Docker 镜像加速与管理服务。零磁盘缓存、可视化面板、支持上游账号认证，支持一键部署Docker、K8s、Quay、Ghcr、Mcr、elastic、nvcr等镜像加速
-
-*   [chatgptuk/Real-US-Address-Generator](https://github.com/chatgptuk/Real-US-Address-Generator) -
-
-*   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-
-*   [setube/vue-xiuxiangame](https://github.com/setube/vue-xiuxiangame) - 文字游戏: 我的文字修仙全靠刷
-
-*   [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
-
-*   [leeenx/OneStroke](https://github.com/leeenx/OneStroke) - H5小游戏100例：一笔画
-
-*   [HypnosNova/Bejeweled](https://github.com/HypnosNova/Bejeweled) - POPCAP的宝石迷阵网页版代码
-
-*   [316k/tap-the-black-tiles](https://github.com/316k/tap-the-black-tiles) - A free clone of Don't Tap the White Tiles (aka Piano Tiles)
-
-*   [arcxingye/EatKano](https://github.com/arcxingye/EatKano) - H5 Games
-
-*   [FounderIsShadowWalker/reactChess](https://github.com/FounderIsShadowWalker/reactChess) - 一个react写的跳棋
-
-*   [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - The source code for 2048
-
-*   [BKcore/HexGL](https://github.com/BKcore/HexGL) - Source code of HexGL, a futuristic HTML5 racing game
-
-*   [IvarK/IvarK.github.io](https://github.com/IvarK/IvarK.github.io) - Antimatter Dimensions
-
-*   [nroutasuo/level13](https://github.com/nroutasuo/level13) - Incremental browser text adventure
-
-*   [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - edgetunnel2 VLESS/Trojan/SS 多功能面板
-
-*   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
-
 ## Rust
 
 *   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
@@ -284,44 +328,6 @@
 *   [kingwrcy/moments](https://github.com/kingwrcy/moments) - 极简朋友圈
 
 *   [deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) - 代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。
-
-## Python
-
-*   [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
-
-*   [luori7hao/astrbot\_plugin\_xinsanguo\_voice](https://github.com/luori7hao/astrbot_plugin_xinsanguo_voice) - AstrBot 新三国语音梗插件 - 识别聊天中的新三国经典台词关键词，自动发送对应语音片段
-
-*   [nonebot/nonebot2](https://github.com/nonebot/nonebot2) - 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
-
-*   [guofei9987/blind\_watermark](https://github.com/guofei9987/blind_watermark) - Blind\&Invisible Watermark ，图片盲水印，提取水印无须原图！
-
-*   [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
-
-*   [CassiopeiaCode/TenCyclesofFate](https://github.com/CassiopeiaCode/TenCyclesofFate) - 《浮生十梦》 是一款基于 Web 的沉浸式文字冒险游戏。玩家在游戏中扮演一个与命运博弈的角色，每天有十次机会进入不同的“梦境”（即生命轮回），体验由 AI 动态生成的、独一无二的人生故事。游戏的核心在于“知足”与“贪欲”之间的抉择：是见好就收，还是追求更高的回报但可能失去一切？
-
-*   [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
-
-*   [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - ⚡️ IPTV直播源自动更新工具：自动采集、校验、测速并生成可播放结果，支持 M3U/TXT/API 输出、自定义频道、IPv4/IPv6、Docker、GitHub Actions、CLI 与 GUI 多端部署
-
-*   [nikolaik/docker-python-nodejs](https://github.com/nikolaik/docker-python-nodejs) - 🐳 Python with Node.js docker image
-
-*   [zhewang448/astrbot\_plugin\_wsde](https://github.com/zhewang448/astrbot_plugin_wsde) - 一个可以指定发出维什戴尔游戏内中日语音的AstrBot插件
-
-*   [amnweb/yasb](https://github.com/amnweb/yasb) - A highly configurable Windows status bar written in Python.
-
-*   [csgo-adc/TencentClassDownloader](https://github.com/csgo-adc/TencentClassDownloader) - 腾讯课堂视频下载。腾讯课堂马上就要关服了，还有没保存的课程快来下载吧
-
-*   [huashengdun/webssh](https://github.com/huashengdun/webssh) - :seedling: Web based ssh client
-
-*   [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
-
-*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-
-*   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
-
-*   [LittleNyima/honkai-starrail-toolkit](https://github.com/LittleNyima/honkai-starrail-toolkit) - 《崩坏：星穹铁道》工具箱，支持抽卡分析、帧率解锁等功能
-
-*   [labmlai/annotated\_deep\_learning\_paper\_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
 
 ## PHP
 
