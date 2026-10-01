@@ -10,8 +10,8 @@
 
 ## Table of Contents
 
-*   [JavaScript](#javascript)
 *   [Python](#python)
+*   [JavaScript](#javascript)
 *   [C++](#c)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
@@ -32,6 +32,48 @@
 *   [C#](#c-2)
 *   [CSS](#css)
 *   [MATLAB](#matlab)
+
+## Python
+
+*   [home-assistant/core](https://github.com/home-assistant/core) - :house\_with\_garden: Open source home automation that puts local control and privacy first.
+
+*   [kldsjfas/astrbot\_plugin\_majsoul](https://github.com/kldsjfas/astrbot_plugin_majsoul) - 基于AstrBot开发的轻量化雀魂战绩查谱插件
+
+*   [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
+
+*   [luori7hao/astrbot\_plugin\_xinsanguo\_voice](https://github.com/luori7hao/astrbot_plugin_xinsanguo_voice) - AstrBot 新三国语音梗插件 - 识别聊天中的新三国经典台词关键词，自动发送对应语音片段
+
+*   [nonebot/nonebot2](https://github.com/nonebot/nonebot2) - 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
+
+*   [guofei9987/blind\_watermark](https://github.com/guofei9987/blind_watermark) - Blind\&Invisible Watermark ，图片盲水印，提取水印无须原图！
+
+*   [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
+
+*   [CassiopeiaCode/TenCyclesofFate](https://github.com/CassiopeiaCode/TenCyclesofFate) - 《浮生十梦》 是一款基于 Web 的沉浸式文字冒险游戏。玩家在游戏中扮演一个与命运博弈的角色，每天有十次机会进入不同的“梦境”（即生命轮回），体验由 AI 动态生成的、独一无二的人生故事。游戏的核心在于“知足”与“贪欲”之间的抉择：是见好就收，还是追求更高的回报但可能失去一切？
+
+*   [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
+
+*   [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - ⚡️ IPTV直播源自动更新工具：自动采集、校验、测速并生成可播放结果，支持 M3U/TXT/API 输出、自定义频道、IPv4/IPv6、Docker、GitHub Actions、CLI 与 GUI 多端部署
+
+*   [nikolaik/docker-python-nodejs](https://github.com/nikolaik/docker-python-nodejs) - 🐳 Python with Node.js docker image
+
+*   [zhewang448/astrbot\_plugin\_wsde](https://github.com/zhewang448/astrbot_plugin_wsde) - 一个可以指定发出维什戴尔游戏内中日语音的AstrBot插件
+
+*   [amnweb/yasb](https://github.com/amnweb/yasb) - A highly configurable Windows status bar written in Python.
+
+*   [csgo-adc/TencentClassDownloader](https://github.com/csgo-adc/TencentClassDownloader) - 腾讯课堂视频下载。腾讯课堂马上就要关服了，还有没保存的课程快来下载吧
+
+*   [huashengdun/webssh](https://github.com/huashengdun/webssh) - :seedling: Web based ssh client
+
+*   [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
+
+*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+
+*   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
+
+*   [LittleNyima/honkai-starrail-toolkit](https://github.com/LittleNyima/honkai-starrail-toolkit) - 《崩坏：星穹铁道》工具箱，支持抽卡分析、帧率解锁等功能
+
+*   [labmlai/annotated\_deep\_learning\_paper\_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
 
 ## JavaScript
 
@@ -102,46 +144,6 @@
 *   [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - edgetunnel2 VLESS/Trojan/SS 多功能面板
 
 *   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
-
-## Python
-
-*   [kldsjfas/astrbot\_plugin\_majsoul](https://github.com/kldsjfas/astrbot_plugin_majsoul) - 基于AstrBot开发的轻量化雀魂战绩查谱插件
-
-*   [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
-
-*   [luori7hao/astrbot\_plugin\_xinsanguo\_voice](https://github.com/luori7hao/astrbot_plugin_xinsanguo_voice) - AstrBot 新三国语音梗插件 - 识别聊天中的新三国经典台词关键词，自动发送对应语音片段
-
-*   [nonebot/nonebot2](https://github.com/nonebot/nonebot2) - 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
-
-*   [guofei9987/blind\_watermark](https://github.com/guofei9987/blind_watermark) - Blind\&Invisible Watermark ，图片盲水印，提取水印无须原图！
-
-*   [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
-
-*   [CassiopeiaCode/TenCyclesofFate](https://github.com/CassiopeiaCode/TenCyclesofFate) - 《浮生十梦》 是一款基于 Web 的沉浸式文字冒险游戏。玩家在游戏中扮演一个与命运博弈的角色，每天有十次机会进入不同的“梦境”（即生命轮回），体验由 AI 动态生成的、独一无二的人生故事。游戏的核心在于“知足”与“贪欲”之间的抉择：是见好就收，还是追求更高的回报但可能失去一切？
-
-*   [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
-
-*   [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - ⚡️ IPTV直播源自动更新工具：自动采集、校验、测速并生成可播放结果，支持 M3U/TXT/API 输出、自定义频道、IPv4/IPv6、Docker、GitHub Actions、CLI 与 GUI 多端部署
-
-*   [nikolaik/docker-python-nodejs](https://github.com/nikolaik/docker-python-nodejs) - 🐳 Python with Node.js docker image
-
-*   [zhewang448/astrbot\_plugin\_wsde](https://github.com/zhewang448/astrbot_plugin_wsde) - 一个可以指定发出维什戴尔游戏内中日语音的AstrBot插件
-
-*   [amnweb/yasb](https://github.com/amnweb/yasb) - A highly configurable Windows status bar written in Python.
-
-*   [csgo-adc/TencentClassDownloader](https://github.com/csgo-adc/TencentClassDownloader) - 腾讯课堂视频下载。腾讯课堂马上就要关服了，还有没保存的课程快来下载吧
-
-*   [huashengdun/webssh](https://github.com/huashengdun/webssh) - :seedling: Web based ssh client
-
-*   [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
-
-*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-
-*   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
-
-*   [LittleNyima/honkai-starrail-toolkit](https://github.com/LittleNyima/honkai-starrail-toolkit) - 《崩坏：星穹铁道》工具箱，支持抽卡分析、帧率解锁等功能
-
-*   [labmlai/annotated\_deep\_learning\_paper\_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
 
 ## C++
 
