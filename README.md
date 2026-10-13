@@ -59,6 +59,8 @@
 
 *   [zhewang448/astrbot\_plugin\_wsde](https://github.com/zhewang448/astrbot_plugin_wsde) - 一个可以指定发出维什戴尔游戏内中日语音的AstrBot插件
 
+*   [YOURLS/awesome](https://github.com/YOURLS/awesome) - 🎉 A curated list of awesome things related to YOURLS
+
 *   [amnweb/yasb](https://github.com/amnweb/yasb) - A highly configurable Windows status bar written in Python.
 
 *   [csgo-adc/TencentClassDownloader](https://github.com/csgo-adc/TencentClassDownloader) - 腾讯课堂视频下载。腾讯课堂马上就要关服了，还有没保存的课程快来下载吧
@@ -240,8 +242,6 @@
 *   [thryvos/Tasmota-WT32-ETH01](https://github.com/thryvos/Tasmota-WT32-ETH01) -  Guide to flash Tasmota firmware into WT32-ETH01
 
 *   [egnor/wt32-eth01](https://github.com/egnor/wt32-eth01) - Bits and bobs related to Wireless-Tag's WT32-ETH01 board
-
-*   [YOURLS/awesome](https://github.com/YOURLS/awesome) - 🎉 A curated list of awesome things related to YOURLS
 
 *   [Meekdai/Gmemp](https://github.com/Meekdai/Gmemp) - Gmemp is a music player All in Github
 
