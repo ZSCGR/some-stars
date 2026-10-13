@@ -313,7 +313,7 @@
 
 *   [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
 
-*   [fishjar/kiss-worker](https://github.com/fishjar/kiss-worker) - A simple data sync service for KISSS-Translator.
+*   [fishjar/kiss-worker](https://github.com/fishjar/kiss-worker) - A simple data sync service for KISS-Translator.
 
 *   [soxft/busuanzi](https://github.com/soxft/busuanzi) - A simple website statistics analyzer
 
