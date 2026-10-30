@@ -11,6 +11,7 @@
 ## Table of Contents
 
 *   [JavaScript](#javascript)
+*   [Go](#go)
 *   [Python](#python)
 *   [C++](#c)
 *   [TypeScript](#typescript)
@@ -19,7 +20,6 @@
 *   [C](#c-1)
 *   [Shell](#shell)
 *   [Java](#java)
-*   [Go](#go)
 *   [PHP](#php)
 *   [Kotlin](#kotlin)
 *   [Vue](#vue)
@@ -33,6 +33,8 @@
 *   [MATLAB](#matlab)
 
 ## JavaScript
+
+*   [terryHu7/homecraft](https://github.com/terryHu7/homecraft) - Build your own Minecraft-inspired 3D personal website. 打造“我的世界”风格的3D个人网站。
 
 *   [stackryze/FreeDomains](https://github.com/stackryze/FreeDomains) - Stackryze Domains: Free Domain for Everyone, Claim yours today.
 
@@ -103,6 +105,32 @@
 *   [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - edgetunnel2 VLESS/Trojan/SS 多功能面板
 
 *   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
+
+## Go
+
+*   [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang) - 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang
+
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+
+*   [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
+
+*   [fishjar/kiss-worker](https://github.com/fishjar/kiss-worker) - A simple data sync service for KISS-Translator.
+
+*   [soxft/busuanzi](https://github.com/soxft/busuanzi) - A simple website statistics analyzer
+
+*   [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
+
+*   [Jinnrry/PMail](https://github.com/Jinnrry/PMail) - Private EMail Server
+
+*   [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
+
+*   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+
+*   [shazow/ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
+
+*   [kingwrcy/moments](https://github.com/kingwrcy/moments) - 极简朋友圈
+
+*   [deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) - 代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。
 
 ## Python
 
@@ -309,30 +337,6 @@
 *   [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 
 *   [houbb/sensitive-word](https://github.com/houbb/sensitive-word) -  👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。内置支持单词标签分类分级。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)
-
-## Go
-
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
-
-*   [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
-
-*   [fishjar/kiss-worker](https://github.com/fishjar/kiss-worker) - A simple data sync service for KISS-Translator.
-
-*   [soxft/busuanzi](https://github.com/soxft/busuanzi) - A simple website statistics analyzer
-
-*   [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
-
-*   [Jinnrry/PMail](https://github.com/Jinnrry/PMail) - Private EMail Server
-
-*   [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
-
-*   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
-
-*   [shazow/ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
-
-*   [kingwrcy/moments](https://github.com/kingwrcy/moments) - 极简朋友圈
-
-*   [deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) - 代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。
 
 ## PHP
 
