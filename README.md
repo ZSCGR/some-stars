@@ -11,16 +11,16 @@
 ## Table of Contents
 
 *   [JavaScript](#javascript)
-*   [Go](#go)
+*   [HTML](#html)
 *   [Python](#python)
 *   [C++](#c)
 *   [TypeScript](#typescript)
-*   [HTML](#html)
 *   [Rust](#rust)
 *   [miscellaneous](#miscellaneous)
 *   [C](#c-1)
 *   [Shell](#shell)
 *   [Java](#java)
+*   [Go](#go)
 *   [PHP](#php)
 *   [Kotlin](#kotlin)
 *   [Vue](#vue)
@@ -106,31 +106,27 @@
 
 *   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
 
-## Go
+## HTML
 
 *   [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang) - 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang
 
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+*   [saladinxp/komari-nano-muse](https://github.com/saladinxp/komari-nano-muse) - NanoMuse — Komari Monitor theme with anime-HUD aesthetic. Light sci-fi dashboard for server monitoring.
 
-*   [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
+*   [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator for customized Cloudflare error pages. (unofficial)
 
-*   [fishjar/kiss-worker](https://github.com/fishjar/kiss-worker) - A simple data sync service for KISS-Translator.
+*   [976853694/cloudflare-DNS](https://github.com/976853694/cloudflare-DNS) - 基于cloudflareAPI开发的DNS域名分发系统
 
-*   [soxft/busuanzi](https://github.com/soxft/busuanzi) - A simple website statistics analyzer
+*   [kfcx/HFSpaceDeploy](https://github.com/kfcx/HFSpaceDeploy) - 将你的项目一键部署到huggingface spaces
 
-*   [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
+*   [zK0G0w/Whisper](https://github.com/zK0G0w/Whisper) - 一个简单的一言接口服务
 
-*   [Jinnrry/PMail](https://github.com/Jinnrry/PMail) - Private EMail Server
+*   [QAbot-zh/query-key-app](https://github.com/QAbot-zh/query-key-app) -
 
-*   [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
+*   [iNekoACG/HTML\_App\_Store](https://github.com/iNekoACG/HTML_App_Store) - Build your App Store with static HTML.
 
-*   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+*   [Harry-zklcdc/go-proxy-bingai](https://github.com/Harry-zklcdc/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，支持 API 调用，国内可用。
 
-*   [shazow/ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
-
-*   [kingwrcy/moments](https://github.com/kingwrcy/moments) - 极简朋友圈
-
-*   [deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) - 代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。
+*   [adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
 
 ## Python
 
@@ -260,26 +256,6 @@
 
 *   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
-## HTML
-
-*   [saladinxp/komari-nano-muse](https://github.com/saladinxp/komari-nano-muse) - NanoMuse — Komari Monitor theme with anime-HUD aesthetic. Light sci-fi dashboard for server monitoring.
-
-*   [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator for customized Cloudflare error pages. (unofficial)
-
-*   [976853694/cloudflare-DNS](https://github.com/976853694/cloudflare-DNS) - 基于cloudflareAPI开发的DNS域名分发系统
-
-*   [kfcx/HFSpaceDeploy](https://github.com/kfcx/HFSpaceDeploy) - 将你的项目一键部署到huggingface spaces
-
-*   [zK0G0w/Whisper](https://github.com/zK0G0w/Whisper) - 一个简单的一言接口服务
-
-*   [QAbot-zh/query-key-app](https://github.com/QAbot-zh/query-key-app) -
-
-*   [iNekoACG/HTML\_App\_Store](https://github.com/iNekoACG/HTML_App_Store) - Build your App Store with static HTML.
-
-*   [Harry-zklcdc/go-proxy-bingai](https://github.com/Harry-zklcdc/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，支持 API 调用，国内可用。
-
-*   [adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
-
 ## Rust
 
 *   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
@@ -355,6 +331,30 @@
 *   [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 
 *   [houbb/sensitive-word](https://github.com/houbb/sensitive-word) -  👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。内置支持单词标签分类分级。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)
+
+## Go
+
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+
+*   [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
+
+*   [fishjar/kiss-worker](https://github.com/fishjar/kiss-worker) - A simple data sync service for KISS-Translator.
+
+*   [soxft/busuanzi](https://github.com/soxft/busuanzi) - A simple website statistics analyzer
+
+*   [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
+
+*   [Jinnrry/PMail](https://github.com/Jinnrry/PMail) - Private EMail Server
+
+*   [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
+
+*   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+
+*   [shazow/ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
+
+*   [kingwrcy/moments](https://github.com/kingwrcy/moments) - 极简朋友圈
+
+*   [deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) - 代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。
 
 ## PHP
 
