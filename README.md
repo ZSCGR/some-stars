@@ -34,7 +34,7 @@
 
 ## JavaScript
 
-*   [terryHu7/homecraft](https://github.com/terryHu7/homecraft) - Build your own Minecraft-inspired 3D personal website. 打造“我的世界”风格的3D个人网站。
+*   [terryHu7/homecraft](https://github.com/terryHu7/homecraft) - Build your own Minecraft-inspired 3D personal website. 打造“我的世界”风格3D个人网站
 
 *   [stackryze/FreeDomains](https://github.com/stackryze/FreeDomains) - Stackryze Domains: Free Domain for Everyone, Claim yours today.
 
