@@ -220,8 +220,6 @@
 
 *   [VaalaCat/frp-panel](https://github.com/VaalaCat/frp-panel) - a multi node frp webui and for https://github.com/fatedier/frp server and client management, which makes this project a Cloudflare Tunnel/Tailscale Funnel/Ngork platform and agent open source alternative
 
-*   [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - Modern protocol-side framework based on NTQQ
-
 *   [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open-source AI language learning & flashcards, an Immersive Translate alternative | 🐸 陪读蛙 - 开源 AI 语言学习与闪词卡，沉浸式翻译替代
 
 *   [CelestialRipple/Gamer](https://github.com/CelestialRipple/Gamer) - A simple personal website built with Next.js featuring a video game theme.
@@ -297,6 +295,8 @@
 *   [Anon-deisu/Mindustry-schematic-storage](https://github.com/Anon-deisu/Mindustry-schematic-storage) -
 
 *   [SpeedyOrc-C/HoYo-Glyphs](https://github.com/SpeedyOrc-C/HoYo-Glyphs) - Constructed scripts by HoYoverse 米哈游的架空文字
+
+*   [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - Modern protocol-side framework
 
 *   [thryvos/Tasmota-WT32-ETH01](https://github.com/thryvos/Tasmota-WT32-ETH01) -  Guide to flash Tasmota firmware into WT32-ETH01
 
