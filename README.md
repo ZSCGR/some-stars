@@ -148,7 +148,7 @@
 
 *   [guofei9987/blind\_watermark](https://github.com/guofei9987/blind_watermark) - Blind\&Invisible Watermark ，图片盲水印，提取水印无须原图！
 
-*   [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
+*   [bilibili/GPT-SoVITS](https://github.com/bilibili/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 
 *   [CassiopeiaCode/TenCyclesofFate](https://github.com/CassiopeiaCode/TenCyclesofFate) - 《浮生十梦》 是一款基于 Web 的沉浸式文字冒险游戏。玩家在游戏中扮演一个与命运博弈的角色，每天有十次机会进入不同的“梦境”（即生命轮回），体验由 AI 动态生成的、独一无二的人生故事。游戏的核心在于“知足”与“贪欲”之间的抉择：是见好就收，还是追求更高的回报但可能失去一切？
 
@@ -248,7 +248,7 @@
 
 *   [GoogleChromeLabs/proxx](https://github.com/GoogleChromeLabs/proxx) - A game of proximity
 
-*   [liyupi/yulegeyu](https://github.com/liyupi/yulegeyu) - 羊了个羊纯前端实现版【鱼了个鱼】，自定义关卡+图案+无限道具，可在线玩：https://yulegeyu.cn
+*   [liyupi/yulegeyu](https://github.com/liyupi/yulegeyu) - 鱼了个鱼（yulegeyu）是程序员鱼皮基于 Vue 3、TypeScript、Vite 与 Ant Design Vue 实现的纯前端开源三消 H5 网页小游戏，完整复刻了热门叠层消除游戏羊了个羊的核心玩法。游戏内置 4 种预设难度并支持深度自定义关卡参数，允许玩家自由替换方块图案、无广告畅玩、无限使用撤回移出洗牌等辅助道具且保证可以顺利通关。项目在核心算法层面清晰实现了全局参数抽取、24x24 虚拟棋盘网格定位、洗牌随机方块分布以及生成阶段直接绑定上下层覆盖关系的高效碰撞检测逻辑，代码精炼易读且无后端依赖，适合前端初学者学习 Vue 3 游戏开发、组件状态管理与创意魔改，在线试玩地址为 http://yulegeyu.yupi.icu
 
 *   [LHRUN/paint-board](https://github.com/LHRUN/paint-board) - 🎨  A powerful multi-end drawing board that brings together a lot of creative brushes to experience a whole new range of drawing effects!
 
